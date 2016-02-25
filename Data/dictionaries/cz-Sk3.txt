@@ -1,1504 +1,1504 @@
-ABÉ mnich
+ABÃ‰ mnich
 ABY spojka
-ÁDA dom. mu. jméno
+ÃDA dom. muÅ¾. jmÃ©no
 ACH citoslovce
-ÁDY dom.mu.jm. 2.pád
-ADA dom. mu. jméno
-ADY dom.mu.jm 2.pád
+ÃDY dom.muÅ¾.jm. 2.pÃ¡d
+ADA dom. muÅ¾. jmÃ©no
+ADY dom.muÅ¾.jm 2.pÃ¡d
 ADO dom. Adame !
-ÁDO dom. Adame !
-ADU dom. Adam 4.pád
-ÁDU dom. Adam 4.pád
-AGA tureckı hodnostáø
-AGO tur. hodnostáø 5.p.
-AGY tur. hodnostáø 2.p.
-AGU tur. hodnostáø 4.p.
-AFT vyráka na rtu
-AJA špaò. chùva
-AKR plošná míra
-AKT úkon
-ALA pobídka
+ÃDO dom. Adame !
+ADU dom. Adam 4.pÃ¡d
+ÃDU dom. Adam 4.pÃ¡d
+AGA tureckÃ½ hodnostÃ¡Å™
+AGO tur. hodnostÃ¡Å™ 5.p.
+AGY tur. hodnostÃ¡Å™ 2.p.
+AGU tur. hodnostÃ¡Å™ 4.p.
+AFT vyrÃ¡Å¾ka na rtu
+AJA Å¡paÅˆ. chÅ¯va
+AKR ploÅ¡nÃ¡ mÃ­ra
+AKT Ãºkon
+ALA pobÃ­dka
 ALE spojka
-ALI arabské jméno
-ALT enskı hlas
-AMT úøad zastarale
+ALI arabskÃ© jmÃ©no
+ALT Å¾enskÃ½ hlas
+AMT ÃºÅ™ad zastarale
 ANI spojka
 ANO souhlas
-AON èlen star. národa
-ARA papoušek
-ARO resust. oddìlení
-ART lat. umìní
-ARY plošné míry
-ARÙ plošné míry 2.p.
-ARU plošná míra 2.pád
-ASI pøíslovce èasu
-ASO obchodní dùm
-AUT zámezí
-AVA èistící prostøedek
-AVY èist. prostø. 2.pád
-AVÌ èist. prostø. 3.pád
-AVU èist. prostø. 4.pád
-AVO èist. prostø. 5.pád
-BÁC citoslovce
+AON Älen star. nÃ¡roda
+ARA papouÅ¡ek
+ARO resust. oddÄ›lenÃ­
+ART lat. umÄ›nÃ­
+ARY ploÅ¡nÃ© mÃ­ry
+ARÅ® ploÅ¡nÃ© mÃ­ry 2.p.
+ARU ploÅ¡nÃ¡ mÃ­ra 2.pÃ¡d
+ASI pÅ™Ã­slovce Äasu
+ASO obchodnÃ­ dÅ¯m
+AUT zÃ¡mezÃ­
+AVA ÄistÃ­cÃ­ prostÅ™edek
+AVY Äist. prostÅ™. 2.pÃ¡d
+AVÄš Äist. prostÅ™. 3.pÃ¡d
+AVU Äist. prostÅ™. 4.pÃ¡d
+AVO Äist. prostÅ™. 5.pÃ¡d
+BÃC citoslovce
 BAF citoslovce
-BÁJ liter. útvar
+BÃJ liter. Ãºtvar
 BAL obal
-BÁL ples
-BAM sibiø.eleznice
-BÁÒ kupole
-BAR noèní podnik
-BAS muskı hlas
-BA pøitakání
-BA bait rozk. zpùsob
-BDÍ nespí
-BEJ tur. hodnostáø
-BEK obránce
-BEN muské jméno
+BÃL ples
+BAM sibiÅ™.Å¾eleznice
+BÃÅ‡ kupole
+BAR noÄnÃ­ podnik
+BAS muÅ¾skÃ½ hlas
+BAÅ¤ pÅ™itakÃ¡nÃ­
+BAÅ½ baÅ¾it rozk. zpÅ¯sob
+BDÃ nespÃ­
+BEJ tur. hodnostÃ¡Å™
+BEK obrÃ¡nce
+BEN muÅ¾skÃ© jmÃ©no
 BER vezmi
-BEZ šeøík
-BÌD bídy 2. pád
-BÌH klus
-BÌL bìloba
-BÌS ïábel
-BÌ utíkej !
-CAP kozel náøeè.
+BEZ Å¡eÅ™Ã­k
+BÄšD bÃ­dy 2. pÃ¡d
+BÄšH klus
+BÄšL bÄ›loba
+BÄšS ÄÃ¡bel
+BÄšÅ½ utÃ­kej !
+CAP kozel nÃ¡Å™eÄ.
 CAR monarcha
-CAT poèítaè. test
-CÁK citoslovce
-CÁR hadr
-CEÏ filtruj !
-CEL cla 2.pád
-CEN ceny 2.pád
-CEP nástroj
+CAT poÄÃ­taÄ. test
+CÃK citoslovce
+CÃR hadr
+CEÄ filtruj !
+CEL cla 2.pÃ¡d
+CEN ceny 2.pÃ¡d
+CEP nÃ¡stroj
 CER prvek
-CÉR prvek
-CÉV cévy 2.pád
+CÃ‰R prvek
+CÃ‰V cÃ©vy 2.pÃ¡d
 CHA citoslovce
-CHÁ citoslovce
-CIA inform. sluba
+CHÃ citoslovce
+CIA inform. sluÅ¾ba
 CIK citoslovce
 CAK citoslovce
-CIS zvıšenı tón
-CIT nìha
-CÍÏ pucuj - lešti !
-CÍL meta
-CÍN kov
-CÍP roh látky
-CI pociuj !
+CIS zvÃ½Å¡enÃ½ tÃ³n
+CIT nÄ›ha
+CÃÄ pucuj - leÅ¡ti !
+CÃL meta
+CÃN kov
+CÃP roh lÃ¡tky
+CIÅ¤ pociÅ¥uj !
 CLA poplatky
-CLI vybírej poplatek !
+CLI vybÃ­rej poplatek !
 CLO poplatek
-CLU clo 3.pád
+CLU clo 3.pÃ¡d
 COP pletenec
-COS co jsi - pøíslovce
-CO pøíslovce
-CPE strká
+COS co jsi - pÅ™Ã­slovce
+COÅ½ pÅ™Ã­slovce
+CPE strkÃ¡
 CPI strkej !
-CPU tlaèím !
-CRÈ crèet - rozk. zp.
+CPU tlaÄÃ­m !
+CRÄŒ crÄet - rozk. zp.
 CRK citoslovce
 CRR citoslovce
-CTI uctívej !
-CTÍ se ctí èest 7.pád
+CTI uctÃ­vej !
+CTÃ se ctÃ­ Äest 7.pÃ¡d
 CUC citoslovce
-CUG lidovì vlak
+CUG lidovÄ› vlak
 CUK citoslovce
-ÈAD stát
-ÈAÏ kuø !
-ÈAJ thé
-Èad stát
-èaï kuø !
-èaj thé
-ÈAO pozdrav
-ÈAR èára 2.pád mn.è.
-ÈAS doba
-ÈAU pozdrav
-ÈÁP pták
-ÈÁR kouzel
-ÈEL èelo 2.pád mn.èís.
-ÈEM pøedloka o èem
-ÈEP spoj
-ÈEØ èeøit rozk. zp.
-ÈEZ podnik
-ÈEŠ èesej !
-ÈET diskuze
-ÈIN úkon
-ÈIP integ. obvod
-ÈIØ èiøit rozk. zp.
-ÈIV nerv
-ÈÍM zájmeno tázací
-ÈÍŠ kalíèek
-ÈNÍ vyènívá
-ÈOI obchod. inspekce
-ÈOP slov. mìsto
-ÈPÍ smrdí
-ÈRT èrty 2.pád mn. èís.
-ÈTE èíst 3.os. jdn. èís.a
-ÈTA èíst - pøechodník
-ÈTI èíst rozk. zp.
-ÈTK èeská tisk. kanc.
-ÈTU èíst 1.os. jdn. èís.
-ÈUÏ kuø ! - náøeènì
-ÈUK ruské jméno
-ÈUM koukej !
-ÈÙZ èùzy 2.pád
-daè daèa - mn.èíslo
-DAF znaèka aut
-Dag muské jméno
+ÄŒAD stÃ¡t
+ÄŒAÄ kuÅ™ !
+ÄŒAJ thÃ©
+ÄŒad stÃ¡t
+ÄaÄ kuÅ™ !
+Äaj thÃ©
+ÄŒAO pozdrav
+ÄŒAR ÄÃ¡ra 2.pÃ¡d mn.Ä.
+ÄŒAS doba
+ÄŒAU pozdrav
+ÄŒÃP ptÃ¡k
+ÄŒÃR kouzel
+ÄŒEL Äelo 2.pÃ¡d mn.ÄÃ­s.
+ÄŒEM pÅ™edloÅ¾ka o Äem
+ÄŒEP spoj
+ÄŒEÅ˜ ÄeÅ™it rozk. zp.
+ÄŒEZ podnik
+ÄŒEÅ  Äesej !
+ÄŒET diskuze
+ÄŒIN Ãºkon
+ÄŒIP integ. obvod
+ÄŒIÅ˜ ÄiÅ™it rozk. zp.
+ÄŒIV nerv
+ÄŒÃM zÃ¡jmeno tÃ¡zacÃ­
+ÄŒÃÅ  kalÃ­Äek
+ÄŒNÃ vyÄnÃ­vÃ¡
+ÄŒOI obchod. inspekce
+ÄŒOP slov. mÄ›sto
+ÄŒPÃ smrdÃ­
+ÄŒRT Ärty 2.pÃ¡d mn. ÄÃ­s.
+ÄŒTE ÄÃ­st 3.os. jdn. ÄÃ­s.a
+ÄŒTA ÄÃ­st - pÅ™echodnÃ­k
+ÄŒTI ÄÃ­st rozk. zp.
+ÄŒTK ÄeskÃ¡ tisk. kanc.
+ÄŒTU ÄÃ­st 1.os. jdn. ÄÃ­s.
+ÄŒUÄ kuÅ™ ! - nÃ¡Å™eÄnÄ›
+ÄŒUK ruskÃ© jmÃ©no
+ÄŒUM koukej !
+ÄŒÅ®Z ÄÅ¯zy 2.pÃ¡d
+daÄ daÄa - mn.ÄÃ­slo
+DAF znaÄka aut
+Dag muÅ¾skÃ© jmÃ©no
 dal daroval
-dál dále
-dam dáma mn.èíslo
-Dan dom. mu.jméno
-dar dárek
-dat data mn.èíslo
-dav mnoho lidí
-dax burzovní index
-Dák èlen st.národa
-dám odevzdám
-Dán evropan
-daò poplatek
-dáš dáti - 2.os.jdn.èís.
-dát dáti
-dbá peèuje
-dej dáti rozk. zp.
-dek deka mno.èíslo
-den èasová jednotka
-dep depa mno. èíslo
-der škubej peøí
-des sníenı tón
-dél delší dobu
-dìd staøec
-dìj posloupnost
-dìl díla 2.pád
-dìr díry 2.pád
-dìs velkı strach
-dìv dívky 2.pád
-dis zvıšenı tón
-div zázrak
-dík dìkování
-díl kousek
-díš tvrdíš
-dít dít vìci
-dí nádoba
+dÃ¡l dÃ¡le
+dam dÃ¡ma mn.ÄÃ­slo
+Dan dom. muÅ¾.jmÃ©no
+dar dÃ¡rek
+dat data mn.ÄÃ­slo
+dav mnoho lidÃ­
+dax burzovnÃ­ index
+DÃ¡k Älen st.nÃ¡roda
+dÃ¡m odevzdÃ¡m
+DÃ¡n evropan
+daÅˆ poplatek
+dÃ¡Å¡ dÃ¡ti - 2.os.jdn.ÄÃ­s.
+dÃ¡t dÃ¡ti
+dbÃ¡ peÄuje
+dej dÃ¡ti rozk. zp.
+dek deka mnoÅ¾.ÄÃ­slo
+den ÄasovÃ¡ jednotka
+dep depa mnoÅ¾. ÄÃ­slo
+der Å¡kubej peÅ™Ã­
+des snÃ­Å¾enÃ½ tÃ³n
+dÃ©l delÅ¡Ã­ dobu
+dÄ›d staÅ™ec
+dÄ›j posloupnost
+dÄ›l dÃ­la 2.pÃ¡d
+dÄ›r dÃ­ry 2.pÃ¡d
+dÄ›s velkÃ½ strach
+dÄ›v dÃ­vky 2.pÃ¡d
+dis zvÃ½Å¡enÃ½ tÃ³n
+div zÃ¡zrak
+dÃ­k dÄ›kovÃ¡nÃ­
+dÃ­l kousek
+dÃ­Å¡ tvrdÃ­Å¡
+dÃ­t dÃ­t vÄ›ci
+dÃ­Å¾ nÃ¡doba
 dkg deko
-dle pøedloka
-dlí pøebıvá
+dle pÅ™edloÅ¾ka
+dlÃ­ pÅ™ebÃ½vÃ¡
 dna nemoc
 dne datum
-dni den 6.pád
-dní den mno. èíslo
-dno spodek nádoby
-dnu dna 4.pád
-dnù dny 2.pád
-dny den mno.èíslo
-dob doba mno. èíslo
+dni den 6.pÃ¡d
+dnÃ­ den mnoÅ¾. ÄÃ­slo
+dno spodek nÃ¡doby
+dnu dna 4.pÃ¡d
+dnÅ¯ dny 2.pÃ¡d
+dny den mnoÅ¾.ÄÃ­slo
+dob doba mnoÅ¾. ÄÃ­slo
 doc titul
-dog doga mno.èíslo
+dog doga mnoÅ¾.ÄÃ­slo
 doj dojit rozk. zp.
-dok pøístav
-dol údolí básn.
-Don øeka
-doò do nìj
-Dor Dory en jméno
-DOS operaèní systém
-dóm katedrála
+dok pÅ™Ã­stav
+dol ÃºdolÃ­ bÃ¡sn.
+Don Å™eka
+doÅˆ do nÄ›j
+Dor Dory Å¾en jmÃ©no
+DOS operaÄnÃ­ systÃ©m
+dÃ³m katedrÃ¡la
 drb pomluva
 drc citoslovce
 drn trs
-dr rozdrcená hmota
-dr dret rozk. zp.
-døe tvrdì pracuje
-døi tvrdì pracuj
-døu tvrdì pracuji
-dto toté
+drÅ¥ rozdrcenÃ¡ hmota
+drÅ¾ drÅ¾et rozk. zp.
+dÅ™e tvrdÄ› pracuje
+dÅ™i tvrdÄ› pracuj
+dÅ™u tvrdÄ› pracuji
+dto totÃ©Å¾
 dua dvojice
 dub strom
 duc citoslovce
-dud dudy mno. èíslo
+dud dudy mnoÅ¾. ÄÃ­slo
 duj foukej
-dun duny 2.pád
-duò dunìní rozk.zp.
+dun duny 2.pÃ¡d
+duÅˆ dunÄ›nÃ­ rozk.zp.
 duo dvojice
 dup citoslovce
-dur tvrdá stupnice
-dùl šachta
-dùm stavení
+dur tvrdÃ¡ stupnice
+dÅ¯l Å¡achta
+dÅ¯m stavenÃ­
 dva oba
-DVD pøehrávaè
-dvé dvì básn.
-dvì obì
+DVD pÅ™ehrÃ¡vaÄ
+dvÃ© dvÄ› bÃ¡sn.
+dvÄ› obÄ›
 Dyk spisovatel
-dıh dıhy 2.pád
-dık dıky 2.pád
-dıl déle lid.
-dım kouø
-dız dızy (trysky) 2.pád
-ïas ïábel
-Eda jméno
+dÃ½h dÃ½hy 2.pÃ¡d
+dÃ½k dÃ½ky 2.pÃ¡d
+dÃ½l dÃ©le lid.
+dÃ½m kouÅ™
+dÃ½z dÃ½zy (trysky) 2.pÃ¡d
+Äas ÄÃ¡bel
+Eda jmÃ©no
 Edo Eda rozk.zp.
-Edu Eda 4.pád
-Edy Eda 2.pád
-ego já
-ega ego 2.pád
-Ela jméno
-elf skøítek
-Eli Ela - zvolání
-Elo Ela zvolání
-Elu Ela 4.pád
-Ely Ela 2.pád
-Ema jméno
-Emi Ema zvolání famil.
-Ema Ema zvolání
-Emu Ema 4.pád
-Emy Ema 2.pád
+Edu Eda 4.pÃ¡d
+Edy Eda 2.pÃ¡d
+ego jÃ¡
+ega ego 2.pÃ¡d
+Ela jmÃ©no
+elf skÅ™Ã­tek
+Eli Ela - zvolÃ¡nÃ­
+Elo Ela zvolÃ¡nÃ­
+Elu Ela 4.pÃ¡d
+Ely Ela 2.pÃ¡d
+Ema jmÃ©no
+Emi Ema zvolÃ¡nÃ­ famil.
+Ema Ema zvolÃ¡nÃ­
+Emu Ema 4.pÃ¡d
+Emy Ema 2.pÃ¡d
 end konec
-era období
+era obdobÃ­
 erb znak
 ero letadlo
 ery doby
 esa karty
 eso karta
-eta znaèka el. spotø.
-Eva jméno
-ave zdrávas
-Evì Eva 3.pád
-Evi Evo ! familielnì
-Evo zvolání
-Evu Eva 4.pád
-Evy Eva 2.pád
-EXE spustitelnı soubor
-éra doba
-éry doby
-éru éra 4.pád
-éro letadlo lid.
-Fab znaèka zámku
+eta znaÄka el. spotÅ™.
+Eva jmÃ©no
+ave zdrÃ¡vas
+EvÄ› Eva 3.pÃ¡d
+Evi Evo ! familielnÄ›
+Evo zvolÃ¡nÃ­
+Evu Eva 4.pÃ¡d
+Evy Eva 2.pÃ¡d
+EXE spustitelnÃ½ soubor
+Ã©ra doba
+Ã©ry doby
+Ã©ru Ã©ra 4.pÃ¡d
+Ã©ro letadlo lid.
+Fab znaÄka zÃ¡mku
 Fan druh klubu
-far fara mno.èíslo
-fau øecké písmeno
-FAX komun.prostøedek
-fáè obvaz
-FBI zpavod.sluka
-fet uívání drog
-fén vysoušeè
-fér rovnì
-féz pokrıvka hlavy
-fiè foukej
+far fara mnoÅ¾.ÄÃ­slo
+fau Å™eckÃ© pÃ­smeno
+FAX komun.prostÅ™edek
+fÃ¡Ä obvaz
+FBI zpavod.sluÅ¾ka
+fet uÅ¾Ã­vÃ¡nÃ­ drog
+fÃ©n vysouÅ¡eÄ
+fÃ©r rovnÄ›
+fÃ©z pokrÃ½vka hlavy
+fiÄ foukej
 Fin evropan
-fis zvıèenı tón
-fit v poøádku
-fix tuka
-fík plod
-fór vtip
-fo fotografuj
+fis zvÃ½ÄenÃ½ tÃ³n
+fit v poÅ™Ã¡dku
+fix tuÅ¾ka
+fÃ­k plod
+fÃ³r vtip
+foÅ¥ fotografuj
 fox foxtrot
-frc dát do frcu
-frè utíkej
+frc dÃ¡t do frcu
+frÄ utÃ­kej
 frk vtip
-frò remcej !
-fuè foukej
+frÅˆ remcej !
+fuÄ foukej
 fug fuga hud. skladba
 fuj citoslovce
 fuk citoslovce
-fuò dıchej nosem
-fux jméno konì
-fùj odpor
-fùr vozù
+fuÅˆ dÃ½chej nosem
+fux jmÃ©no konÄ›
+fÅ¯j odpor
+fÅ¯r vozÅ¯
 Gal Francouz
-gay lékaø. vıraz
+gay lÃ©kaÅ™. vÃ½raz
 gaz plyn
-geg slovní høíèka
+geg slovnÃ­ hÅ™Ã­Äka
 gej gay foneticky
-Gek jméno
+Gek jmÃ©no
 gel vazelina
-gen nosiè informace
-ges sníenı tón
+gen nosiÄ informace
+ges snÃ­Å¾enÃ½ tÃ³n
 gin lihovina
-gis zvıèenı tón
-gól branka
-gró základ
-gum guma mno.èíslo
-Gut èeskı hokejista
-biè knuta
-bij tluè
+gis zvÃ½ÄenÃ½ tÃ³n
+gÃ³l branka
+grÃ³ zÃ¡klad
+gum guma mnoÅ¾.ÄÃ­slo
+Gut ÄeskÃ½ hokejista
+biÄ knuta
+bij tluÄ
 bil tloukl
 bim citoslovce
 bio kino
-bis infor. sluba
+bis infor. sluÅ¾ba
 bit jedn. informace
-bít tlouci
-blb blázen
-boa koešina
-bob luštìnina
-bod teèka
+bÃ­t tlouci
+blb blÃ¡zen
+boa koÅ¾eÅ¡ina
+bob luÅ¡tÄ›nina
+bod teÄka
 boj bitva
-bok èást tìla
+bok ÄÃ¡st tÄ›la
 bol bolest
 bon cenina
 bor les
-boø bourej
+boÅ™ bourej
 bos neobut
-bot bota mno. èíslo
+bot bota mnoÅ¾. ÄÃ­slo
 box sport
 boy chlapec
-bór prvek
-brk péro
+bÃ³r prvek
+brk pÃ©ro
 brm citoslovce
-brò brnìt rozk. zp.
-brv brva mno.èíslo
-buè buèet rozk. zp.
-bud bouda mno. èís.
-buï existuj
-Bug øeka
+brÅˆ brnÄ›t rozk. zp.
+brv brva mnoÅ¾.ÄÃ­slo
+buÄ buÄet rozk. zp.
+bud bouda mnoÅ¾. ÄÃ­s.
+buÄ existuj
+Bug Å™eka
 buk strom
-bul breè !
+bul breÄ !
 bum citoslovce
-Bur èlen národa
-buø bouchej ! náøeè.
+Bur Älen nÃ¡roda
+buÅ™ bouchej ! nÃ¡Å™eÄ.
 bus autobus
-buš houština
-Bùh nejvyšší
-bùm oivení na burze
+buÅ¡ houÅ¡tina
+BÅ¯h nejvyÅ¡Å¡Ã­
+bÅ¯m oÅ¾ivenÃ­ na burze
 byl existoval
 byt domov
-by pøíslovce
-bık samec
-bıt existovat
+byÅ¥ pÅ™Ã­slovce
+bÃ½k samec
+bÃ½t existovat
 had plaz
 haf citoslovce
 haj citoslovce
-hal hala mno.èíslo
+hal hala mnoÅ¾.ÄÃ­slo
 ham citoslovce
-han hana mno.èíslo
-haò pomlouvej !
+han hana mnoÅ¾.ÄÃ­slo
+haÅˆ pomlouvej !
 has hasit rozk.zp.
-ha nepøístup. oblast
-ha házej opakovanì
-Hág nìm.mìsto - èesky
-háj lesík
-hák skoba
-háv oblek
-hec pobídka
-heè a pøesto
-hej zvolání
-hek hekání
-her hra mno.èíslo
-hes sníenı tón
+haÅ¥ nepÅ™Ã­stup. oblast
+haÅ¾ hÃ¡zej opakovanÄ›
+HÃ¡g nÄ›m.mÄ›sto - Äesky
+hÃ¡j lesÃ­k
+hÃ¡k skoba
+hÃ¡v oblek
+hec pobÃ­dka
+heÄ a pÅ™esto
+hej zvolÃ¡nÃ­
+hek hekÃ¡nÃ­
+her hra mnoÅ¾.ÄÃ­slo
+hes snÃ­Å¾enÃ½ tÃ³n
 het povel koni(vpravo)
-héj zvolání
+hÃ©j zvolÃ¡nÃ­
 hic horko
-hin tak náøeè.
-hip zvolání
-his tón C
-hit úspìšná vìc
+hin tak nÃ¡Å™eÄ.
+hip zvolÃ¡nÃ­
+his tÃ³n C
+hit ÃºspÄ›Å¡nÃ¡ vÄ›c
 HIV nemoc
-hle podívej
+hle podÃ­vej
 hlt lok
-hne uèiní pohyb
-hni uèió pohyb
-hnu uèiním pobyb
+hne uÄinÃ­ pohyb
+hni uÄiÃ³ pohyb
+hnu uÄinÃ­m pobyb
 hoc ad hoc
-hod rychlı pohyb
-hoï hodit rozkaz.zp.
-hoj zvolání
+hod rychlÃ½ pohyb
+hoÄ hodit rozkaz.zp.
+hoj zvolÃ¡nÃ­
 hol holit rozk.zp.
 hon lov
-hoò nahánìj
+hoÅˆ nahÃ¡nÄ›j
 hop citoslovce
-hor hory 2.pád
-hoø plápolej !
+hor hory 2.pÃ¡d
+hoÅ™ plÃ¡polej !
 hot povel koni(vpravo)
 hou citoslovce
-Hór egypt. bùh
-hra zábava
-hrb kopeèek
+HÃ³r egypt. bÅ¯h
+hra zÃ¡bava
+hrb kopeÄek
 hrc citoslovce
-hrè hrkej !
+hrÄ hrkej !
 hrd viz hrdobec
 hrk citoslovce
-hrò shrnuj !
+hrÅˆ shrnuj !
 hrr citoslovce
-hru hra 4.pád
-hry zábavy
-høe hra 6.pád
-hub houba mno.èíslo
-huè huèet rozk.zp.
+hru hra 4.pÃ¡d
+hry zÃ¡bavy
+hÅ™e hra 6.pÃ¡d
+hub houba mnoÅ¾.ÄÃ­slo
+huÄ huÄet rozk.zp.
 huj citoslovce
-hul kuø !
-Hun èlen národa
+hul kuÅ™ !
+Hun Älen nÃ¡roda
 hup citoslovce
-Hus reformátor
-huš necháš to !
-hu tavírna
-hùl klacek
-hùø bude
+Hus reformÃ¡tor
+huÅ¡ nechÃ¡Å¡ to !
+huÅ¥ tavÃ­rna
+hÅ¯l klacek
+hÅ¯Å™ bude
 hyc horko
-hyn  však ( náøeènì )
-hyò umírej !
-hip hip hurá
-hyø hıøit rozk. zp.
-hıl pták
-hıø hıøit rozk. zp.
-IBM soft.spoleènost
+hyn  vÅ¡ak ( nÃ¡Å™eÄnÄ› )
+hyÅˆ umÃ­rej !
+hip hip hurÃ¡
+hyÅ™ hÃ½Å™it rozk. zp.
+hÃ½l ptÃ¡k
+hÃ½Å™ hÃ½Å™it rozk. zp.
+IBM soft.spoleÄnost
 iba jen ze slovenska
 Ibn syn arabsky
 Ice led z angl.
 Ida kyselka
 Ido Ida rozk. zp.
-Idu Ida 4.pád
-idú valaši
-Idy Ida 2.pád
-iïe valach
-IFA znaèka aut
-Ina en. jméno
-iks název pésmene
-Ina enské jméno
-Ind èlen národa
+Idu Ida 4.pÃ¡d
+idÃº valaÅ¡i
+Idy Ida 2.pÃ¡d
+iÄe valach
+IFA znaÄka aut
+Ina Å¾en. jmÃ©no
+iks nÃ¡zev pÃ©smene
+Ina Å¾enskÃ© jmÃ©no
+Ind Älen nÃ¡roda
 Ing titul
-Ink indián
-Inn øeka
+Ink indiÃ¡n
+Inn Å™eka
 Ino Ina rozk. zp.
-inu pøíslovce
+inu pÅ™Ã­slovce
 Iny Ina
-2.p ád
+2.p Ã¡d
 Ipa krytina
 Ipu Ipa
-4.p ád
-Ipy Ipa krytina 2,pád
+4.p Ã¡d
+Ipy Ipa krytina 2,pÃ¡d
 IRA teror. organizace
-Iva enské jméno
-Ivì Iva 3.pád
-Ivi Ivo ! ( pøátelsky )
+Iva Å¾enskÃ© jmÃ©no
+IvÄ› Iva 3.pÃ¡d
+Ivi Ivo ! ( pÅ™Ã¡telsky )
 Ivo Iva rozk.zp.
-Ivu Iva 4.pád
+Ivu Iva 4.pÃ¡d
 Ivy Iva
-2.p ád
-Ia ves slovenská
+2.p Ã¡d
+IÅ¾a ves slovenskÃ¡
 jaj citoslovce
-jak zájmeno
-jal zaèal
-jam dem
-Jan jméno
+jak zÃ¡jmeno
+jal zaÄal
+jam dÅ¾em
+Jan jmÃ©no
 JAR Jihoafr. republika
-jaø jarní setba
+jaÅ™ jarnÃ­ setba
 jas svit
 jat zajat
-jáj citoslovce
-Ján slov. jméno
-jda jíti . pøechodník
-jde nestojí
-jdi nestùj !
-jdu nestojím
+jÃ¡j citoslovce
+JÃ¡n slov. jmÃ©no
+jda jÃ­ti . pÅ™echodnÃ­k
+jde nestojÃ­
+jdi nestÅ¯j !
+jdu nestojÃ­m
 jed otrava jedem
-jeï nestùj
-Jef ang.jméno
-jej zájmeno
-jek køik
-jel nestál
-jen zájmeno
-jet nestát
-jev úkaz
-jez vodní plocha
-je zájmeno
-jéj citoslovce
-jha jaøma
-jho jaømo
-jhu jho 3.pád
-jih svìt. strana
-jim zájmeno
-ji zájmeno
-jíl hlína
-jím krmím se
-jíš krmíš se
-jít nestát
-jív jíva mno. èíslo
+jeÄ nestÅ¯j
+Jef ang.jmÃ©no
+jej zÃ¡jmeno
+jek kÅ™ik
+jel nestÃ¡l
+jen zÃ¡jmeno
+jet nestÃ¡t
+jev Ãºkaz
+jez vodnÃ­ plocha
+jeÅ¾ zÃ¡jmeno
+jÃ©j citoslovce
+jha jaÅ™ma
+jho jaÅ™mo
+jhu jho 3.pÃ¡d
+jih svÄ›t. strana
+jim zÃ¡jmeno
+jiÅ¾ zÃ¡jmeno
+jÃ­l hlÃ­na
+jÃ­m krmÃ­m se
+jÃ­Å¡ krmÃ­Å¡ se
+jÃ­t nestÃ¡t
+jÃ­v jÃ­va mnoÅ¾. ÄÃ­slo
 Job patriarcha
 jod prvek
-Joe ang.jméno
-jog joga mno.èíslo
-jol jola mno.èíslo
-jód prvek
-jóg jóga mno.èíslo
-jój citoslovce
-Jón èlen národa
-jsa bıti pøechodník
-jsi existuješ
-jùj citoslovce
+Joe ang.jmÃ©no
+jog joga mnoÅ¾.ÄÃ­slo
+jol jola mnoÅ¾.ÄÃ­slo
+jÃ³d prvek
+jÃ³g jÃ³ga mnoÅ¾.ÄÃ­slo
+jÃ³j citoslovce
+JÃ³n Älen nÃ¡roda
+jsa bÃ½ti pÅ™echodnÃ­k
+jsi existujeÅ¡
+jÅ¯j citoslovce
 kaj spytuj
 kal sajrajt
-kam pøíslovce
+kam pÅ™Ã­slovce
 kap mys
-kar pohø. hostina
-kat popravèí
+kar pohÅ™. hostina
+kat popravÄÃ­
 kaz chyba
-ka kázat rozk. zp.
-káï nádoba
-kát spytovat
-kde zájmeno
-kdo zájmeno
-kdy zájmono
-kec planá øeè
-keï kdy na slovácku
-kel sloní zub
-keø døevina
-keš za hotové
-ké snad
-Kid Chaplinùv film
+kaÅ¾ kÃ¡zat rozk. zp.
+kÃ¡Ä nÃ¡doba
+kÃ¡t spytovat
+kde zÃ¡jmeno
+kdo zÃ¡jmeno
+kdy zÃ¡jmono
+kec planÃ¡ Å™eÄ
+keÄ kdyÅ¾ na slovÃ¡cku
+kel slonÃ­ zub
+keÅ™ dÅ™evina
+keÅ¡ za hotovÃ©
+kÃ©Å¾ snad
+Kid ChaplinÅ¯v film
 kin kina
-2.p ád
+2.p Ã¡d
 klk lalok
-klù kly 2.pád
-kly sloní zuby
+klÅ¯ kly 2.pÃ¡d
+kly slonÃ­ zuby
 koj kojit rozk,zp,
 kok bacil
-kol okolo básn.
-kom o kom - otázka
-kon èin . básnicky
-kop kopnutí
-kos pták
-koš proutìná nádoba
+kol okolo bÃ¡sn.
+kom o kom - otÃ¡zka
+kon Äin . bÃ¡snicky
+kop kopnutÃ­
+kos ptÃ¡k
+koÅ¡ proutÄ›nÃ¡ nÃ¡doba
 kot kocour
-ko kotit rozk.zp.
-kov kujnı nerost
+koÅ¥ kotit rozk.zp.
+kov kujnÃ½ nerost
 koz kozy
-2.p ád
-kód heslo
-krá køik vrány
+2.p Ã¡d
+kÃ³d heslo
+krÃ¡ kÅ™ik vrÃ¡ny
 krb pec
-krè èást Prahy
-krk èást tìla
+krÄ ÄÃ¡st Prahy
+krk ÄÃ¡st tÄ›la
 krm krmit rozk.zp.
-krs zákrsek
+krs zÃ¡krsek
 krt krtek
 kry kusy ledu
-ksí øecké písmeno
-kuè kuèit koøeny rozk.
+ksÃ­ Å™eckÃ© pÃ­smeno
+kuÄ kuÄit koÅ™eny rozk.
 kuj kovej !
 kuk citoslovce
-kun kuny 2.pád
+kun kuny 2.pÃ¡d
 kup koupit rozkaz.zp.
 kur slepice
-kuø nekuø !
-kus èást
-kuš citoslovce
-ku kutit rozk.zp.
-kùl kolík
-kùò zvíøe
-kùr èást kostela
-kvá citoslovce
+kuÅ™ nekuÅ™ !
+kus ÄÃ¡st
+kuÅ¡ citoslovce
+kuÅ¥ kutit rozk.zp.
+kÅ¯l kolÃ­k
+kÅ¯Åˆ zvÃ­Å™e
+kÅ¯r ÄÃ¡st kostela
+kvÃ¡ citoslovce
 kyj klacek
-kyò narùstej !
-kyš citoslovce
+kyÅˆ narÅ¯stej !
+kyÅ¡ citoslovce
 kyt tmel
 kyv kmit
-kyz oxid eleza
-kıè pìknı kousek
-kıl pøíï lodì
-kım zájmeno
-kı kterıto
-lad poøádek
-laï ladit rozk.zp.
-laj nadávej
+kyz oxid Å¾eleza
+kÃ½Ä pÄ›knÃ½ kousek
+kÃ½l pÅ™Ã­Ä lodÄ›
+kÃ½m zÃ¡jmeno
+kÃ½Å¾ kterÃ½Å¾to
+lad poÅ™Ã¡dek
+laÄ ladit rozk.zp.
+laj nadÃ¡vej
 lak email
-lam lamy 2.pád
-lan lana 2.pád
-laò samice od jelena
-lar domácí bùek
+lam lamy 2.pÃ¡d
+lan lana 2.pÃ¡d
+laÅˆ samice od jelena
+lar domÃ¡cÃ­ bÅ¯Å¾ek
 las lasa
-2.p ád
-la lišta
+2.p Ã¡d
+laÅ¥ liÅ¡ta
 laz louka u lesa
-láb laboratoø
-lál vyèítal
-lán kus pole
-lát nadávat
+lÃ¡b laboratoÅ™
+lÃ¡l vyÄÃ­tal
+lÃ¡n kus pole
+lÃ¡t nadÃ¡vat
 leb lebka
-leè past
-led zmrzlá voda
-leh poloha tìla
-lei mìnová jednotka
+leÄ past
+led zmrzlÃ¡ voda
+leh poloha tÄ›la
+lei mÄ›novÃ¡ jednotka
 lej nalejvej !
-lek leknutí
+lek leknutÃ­
 lem okraj
 len rastlina
-Leo mu. jméno
+Leo muÅ¾. jmÃ©no
 lep lepidlo
-les stromoví
+les stromovÃ­
 let pobyb vzduchem
-le letìt rozk.zp.
-lev zvíøe
-lez lézti
+leÅ¥ letÄ›t rozk.zp.
+lev zvÃ­Å™e
+lez lÃ©zti
 roz k.zp.
-le nepravda
-léè léèit
+leÅ¾ nepravda
+lÃ©Ä lÃ©Äit
 roz k.zp.
-lék droga
-liè líèit rozk.zp.
-lid národ
+lÃ©k droga
+liÄ lÃ­Äit rozk.zp.
+lid nÃ¡rod
 lig ligy
-2.p ád
+2.p Ã¡d
 lij nalejvej !
-lil naléjval
-lip lípy
-2.p ád
+lil nalÃ©jval
+lip lÃ­py
+2.p Ã¡d
 lir liry
-2.p ád
+2.p Ã¡d
 lis stroj
-li pøíklonka
-líc a rub
-líh alkohol
-lín ryba
-líp lépe
-Lír Lear èesky
-líz sùl pro zvìø
-lne k nìkomu
-lni k nìkomu
-lnu k nìkomu
-lob pøehoz v tenisu
-loï plavidlo
-log loga 2.pád
+liÅ¾ pÅ™Ã­klonka
+lÃ­c a rub
+lÃ­h alkohol
+lÃ­n ryba
+lÃ­p lÃ©pe
+LÃ­r Lear Äesky
+lÃ­z sÅ¯l pro zvÄ›Å™
+lne k nÄ›komu
+lni k nÄ›komu
+lnu k nÄ›komu
+lob pÅ™ehoz v tenisu
+loÄ plavidlo
+log loga 2.pÃ¡d
 lok hlt
 lom kamenolom
-los cennı papír
-Lot biblická osoba
+los cennÃ½ papÃ­r
+Lot biblickÃ¡ osoba
 lov hon
-lo nakládej !
-lpí trvá
+loÅ¾ naklÃ¡dej !
+lpÃ­ trvÃ¡
 LSD droga
-lub èást houslí
+lub ÄÃ¡st houslÃ­
 luh louka
-luk zbraò
-lup koøist
-lux jednotka svìtla
-lùj tuk
-lùz lùzy
-2.p íd
+luk zbraÅˆ
+lup koÅ™ist
+lux jednotka svÄ›tla
+lÅ¯j tuk
+lÅ¯z lÅ¯zy
+2.p Ã­d
 lva lev
-2.p ád
-lvi šelmy
-lví lví silou
-lvu lev 3.pád
-lvù lvi
-2.p ád
+2.p Ã¡d
+lvi Å¡elmy
+lvÃ­ lvÃ­ silou
+lvu lev 3.pÃ¡d
+lvÅ¯ lvi
+2.p Ã¡d
 lvy lvi
-4.p ád
-lyr lyra hud.nástr. mn.
-lze je mono
-le a krade
-li nepravdy
-lí mnoho lí
-lu a kdo ne ?
-maè zápas
-maj mají
+4.p Ã¡d
+lyr lyra hud.nÃ¡str. mn.
+lze je moÅ¾no
+lÅ¾e a krade
+lÅ¾i nepravdy
+lÅ¾Ã­ mnoho lÅ¾Ã­
+lÅ¾u a kdo ne ?
+maÄ zÃ¡pas
+maj majÃ­
 man otrok
-Mao èíndkı vùdce
-map mapy 2.pád
-maø maøit rozk,zp.
-mas masy 2.pád
-mat konec šach. hry
-ma uvádìj v omyl
-Max muské jménp
-May nìm. spisovatel
+Mao ÄÃ­ndkÃ½ vÅ¯dce
+map mapy 2.pÃ¡d
+maÅ™ maÅ™it rozk,zp.
+mas masy 2.pÃ¡d
+mat konec Å¡ach. hry
+maÅ¥ uvÃ¡dÄ›j v omyl
+Max muÅ¾skÃ© jmÃ©np
+May nÄ›m. spisovatel
 maz tuk
-ma gumuj !
-mág kouzelník
-máj kvìten
-mák poivatina
-mám vlastním
-már máry 2.pád
-máš vlasníš
-máz dutá míra
-meè zbraò
+maÅ¾ gumuj !
+mÃ¡g kouzelnÃ­k
+mÃ¡j kvÄ›ten
+mÃ¡k poÅ¾ivatina
+mÃ¡m vlastnÃ­m
+mÃ¡r mÃ¡ry 2.pÃ¡d
+mÃ¡Å¡ vlasnÃ­Å¡
+mÃ¡z dutÃ¡ mÃ­ra
+meÄ zbraÅˆ
 med sladidlo
-mel mlít rozk.zp.
+mel mlÃ­t rozk.zp.
 met hod
-me zame !
+meÅ¥ zameÅ¥ !
 mez hranice
-méò ménì náøeè.
-mìï kov
-mìj vlastni !
-mìl vlastnil
-mìn mìny 2.pád
-mìò smìòuj !
-mìr míry 2.pád
-mìø promìøuj !
-Mig ruské letadlo
+mÃ©Åˆ mÃ©nÄ› nÃ¡Å™eÄ.
+mÄ›Ä kov
+mÄ›j vlastni !
+mÄ›l vlastnil
+mÄ›n mÄ›ny 2.pÃ¡d
+mÄ›Åˆ smÄ›Åˆuj !
+mÄ›r mÃ­ry 2.pÃ¡d
+mÄ›Å™ promÄ›Å™uj !
+Mig ruskÃ© letadlo
 mih kmit
-mil míle 2.pád
+mil mÃ­le 2.pÃ¡d
 mim herec
-min miny 2.pád
-miø zamìøuj !
-mis kráska
-mix pøístroj
-míè balón
-míò ménì
-mír klid zbraní
-mít vlastnit
-míz mízy 2.pád
-mlè nemluv
-mlh mlhy 2.pád
-mls zákusek
-ml rada poslanci
+min miny 2.pÃ¡d
+miÅ™ zamÄ›Å™uj !
+mis krÃ¡ska
+mix pÅ™Ã­stroj
+mÃ­Ä balÃ³n
+mÃ­Åˆ mÃ©nÄ›
+mÃ­r klid zbranÃ­
+mÃ­t vlastnit
+mÃ­z mÃ­zy 2.pÃ¡d
+mlÄ nemluv
+mlh mlhy 2.pÃ¡d
+mls zÃ¡kusek
+mlÅ¾ rada poslanci
 mne si ruce
-mnì komu
+mnÄ› komu
 mni si ruce
 mnu si ruce
-moc síla
-moè tekutina
-mod zpùsob
-moï fiòtí se ! náøeè.
-mok nápoj
-mol škùdce
-mop smeták
+moc sÃ­la
+moÄ tekutina
+mod zpÅ¯sob
+moÄ fiÅˆtÃ­ se ! nÃ¡Å™eÄ.
+mok nÃ¡poj
+mol Å¡kÅ¯dce
+mop smetÃ¡k
 mor epidemie
-moø napouštìj !
-mou zájmeno
-mrè mrèet rozk. zp.
-møe umírá
-mrk mrknutí
+moÅ™ napouÅ¡tÄ›j !
+mou zÃ¡jmeno
+mrÄ mrÄet rozk. zp.
+mÅ™e umÃ­rÃ¡
+mrk mrknutÃ­
 mrv mrvy
-2.p ád
-møi umírej !
-møu umírám
-mše pobonost
-mši mše 4.pád
-mší mše mno.èíslo
-muè trápit rozk. zp.
+2.p Ã¡d
+mÅ™i umÃ­rej !
+mÅ™u umÃ­rÃ¡m
+mÅ¡e poboÅ¾nost
+mÅ¡i mÅ¡e 4.pÃ¡d
+mÅ¡Ã­ mÅ¡e mnoÅ¾.ÄÃ­slo
+muÄ trÃ¡pit rozk. zp.
 muk citoslovce
 mul muly
-2.p ád
-mu chlap
-mùj zájmeno
-mùz mùzy 2.pád
-myj umıvej !
-myl umıval
+2.p Ã¡d
+muÅ¾ chlap
+mÅ¯j zÃ¡jmeno
+mÅ¯z mÅ¯zy 2.pÃ¡d
+myj umÃ½vej !
+myl umÃ½val
 mys kap
-myš hlodavec
-myt pøíèestí trpné
-mıt umıvat
-me øeka
-mi me 4.pád
-mí drobnì prší
-naè zájmeno
-nad pøedloka
-naò na nìho
-na bramborová
-nám zájmeno
-nás zájmeno
-náš zájmeno
+myÅ¡ hlodavec
+myt pÅ™Ã­ÄestÃ­ trpnÃ©
+mÃ½t umÃ½vat
+mÅ¾e Å™eka
+mÅ¾i mÅ¾e 4.pÃ¡d
+mÅ¾Ã­ drobnÄ› prÅ¡Ã­
+naÄ zÃ¡jmeno
+nad pÅ™edloÅ¾ka
+naÅˆ na nÄ›ho
+naÅ¥ bramborovÃ¡
+nÃ¡m zÃ¡jmeno
+nÃ¡s zÃ¡jmeno
+nÃ¡Å¡ zÃ¡jmeno
 neb spojka
-nej pøedpona
-nes nésti rozk.zp.
+nej pÅ™edpona
+nes nÃ©sti rozk.zp.
 NET Internet
-ne snacha
-ne pøedloka
-nìh nìhy 2.pád
-nìj zájmeno
-nì zájmeno
-nic pøíslovce
-Nil øeka
-nim zájmeno oni 3.p.
-nit vlákno
-ni vlákno
+neÅ¥ snacha
+neÅ¾ pÅ™edloÅ¾ka
+nÄ›h nÄ›hy 2.pÃ¡d
+nÄ›j zÃ¡jmeno
+nÄ›Å¾ zÃ¡jmeno
+nic pÅ™Ã­slovce
+Nil Å™eka
+nim zÃ¡jmeno oni 3.p.
+nit vlÃ¡kno
+niÅ¥ vlÃ¡kno
 niv nivy
-2.p ád
-ním zájmeno 7.pád
-ní pøíslovce
+2.p Ã¡d
+nÃ­m zÃ¡jmeno 7.pÃ¡d
+nÃ­Å¾ pÅ™Ã­slovce
 noc opak dne
-Noe biblická osoba
-noh pták
-nok v polévce
-Nor èlen národa
-noø potápìj
-nos èich. orgán
-not noty 2.pád
-nov fáze mìsíce
-nul nuly 2.pád
-nu nutit rozk. zp.
-nu pøíslovce
-nù nástroj
-nıt souèást
-òaf citoslovce
+Noe biblickÃ¡ osoba
+noh ptÃ¡k
+nok v polÃ©vce
+Nor Älen nÃ¡roda
+noÅ™ potÃ¡pÄ›j
+nos Äich. orgÃ¡n
+not noty 2.pÃ¡d
+nov fÃ¡ze mÄ›sÃ­ce
+nul nuly 2.pÃ¡d
+nuÅ¥ nutit rozk. zp.
+nuÅ¾ pÅ™Ã­slovce
+nÅ¯Å¾ nÃ¡stroj
+nÃ½t souÄÃ¡st
+Åˆaf citoslovce
 oba dva
-obé oboje básn.
-obì dvì
+obÃ© oboje bÃ¡sn.
+obÄ› dvÄ›
 obr kolos
 och povzdech
-oèi zrak
-oèí oèi
-2.p ád
-ode pøedloka
+oÄi zrak
+oÄÃ­ oÄi
+2.p Ã¡d
+ode pÅ™edloÅ¾ka
 oho citoslovce
-oje oj náøeènì
-Oka ruská øeka
-oko èidlo zraku
-Ola dom. jméno
+oje oj nÃ¡Å™eÄnÄ›
+Oka ruskÃ¡ Å™eka
+oko Äidlo zraku
+Ola dom. jmÃ©no
 Oli Olgo ! famil.
-Olu Ola 4.pád
-Oly Ola 2.pád
-ona zájmeno
-oni zájmeno
-ono zájmeno
-onu zíjmeno
-ony zájmeno
+Olu Ola 4.pÃ¡d
+Oly Ola 2.pÃ¡d
+ona zÃ¡jmeno
+oni zÃ¡jmeno
+ono zÃ¡jmeno
+onu zÃ­jmeno
+ony zÃ¡jmeno
 opi opice
-opí opièí
-opù opic
-orb orby 2.pád
-ort dùlní dílo
-oøe zpracovává pole
-oøu orám
-osa høídel
-ose osa 3.pád
-osm èíslovka
-osu osa 4.pád
-osy osa 2.pád
-Ota muské jméno
-Oto muské jméno
-Otu Ota 4.pád
+opÃ­ opiÄÃ­
+opÅ¯ opic
+orb orby 2.pÃ¡d
+ort dÅ¯lnÃ­ dÃ­lo
+oÅ™e zpracovÃ¡vÃ¡ pole
+oÅ™u orÃ¡m
+osa hÅ™Ã­del
+ose osa 3.pÃ¡d
+osm ÄÃ­slovka
+osu osa 4.pÃ¡d
+osy osa 2.pÃ¡d
+Ota muÅ¾skÃ© jmÃ©no
+Oto muÅ¾skÃ© jmÃ©no
+Otu Ota 4.pÃ¡d
 Oty Ota
-2.p ád
-óda oslavná báseó
-ódu óda 4.pád
-ódy óda 2.pád
+2.p Ã¡d
+Ã³da oslavnÃ¡ bÃ¡seÃ³
+Ã³du Ã³da 4.pÃ¡d
+Ã³dy Ã³da 2.pÃ¡d
 pac povel pro psa
-Pad ital. øeka
-paï utíkej !
-paf vyveden z míry
+Pad ital. Å™eka
+paÄ utÃ­kej !
+paf vyveden z mÃ­ry
 pak spojka
-pal støílej !
-Pan slovanskı bùh
-par páry 2.pád
-paø chlastej !
-pas cestovní doklad
-paš pastva náøeènì
-pat remíza
-páè ponìvad lid.
-pád pıcha a pád
-pán mu
-pár dvojice
-páv pták
+pal stÅ™Ã­lej !
+Pan slovanskÃ½ bÅ¯h
+par pÃ¡ry 2.pÃ¡d
+paÅ™ chlastej !
+pas cestovnÃ­ doklad
+paÅ¡ pastva nÃ¡Å™eÄnÄ›
+pat remÃ­za
+pÃ¡Ä ponÄ›vadÅ¾ lid.
+pÃ¡d pÃ½cha a pÃ¡d
+pÃ¡n muÅ¾
+pÃ¡r dvojice
+pÃ¡v ptÃ¡k
 pec kamna
-peè péci rozk. zp.
-pel poprašek
-peò paøe
-per prát rozk. zp.
-pes šelma
-pér péra 2.pád
-pìj zpívej !
-pìl zpíval
-pìt èíslovka
+peÄ pÃ©ci rozk. zp.
+pel popraÅ¡ek
+peÅˆ paÅ™eÅ¾
+per prÃ¡t rozk. zp.
+pes Å¡elma
+pÃ©r pÃ©ra 2.pÃ¡d
+pÄ›j zpÃ­vej !
+pÄ›l zpÃ­val
+pÄ›t ÄÃ­slovka
 pic citoslovce
 pif citoslovce
-pih pihy 2.pád
-pij popíjej !
-pil popíjel
+pih pihy 2.pÃ¡d
+pij popÃ­jej !
+pil popÃ­jel
 pin kontakt
 pip citoslovce
-piš dopis
-piv piva 2.pád
-píï délková míra
-pík píky 2.pád
-píp citoslovce
-pít hasit ízeò
-plá plápolá
-plh ivoèich
+piÅ¡ dopis
+piv piva 2.pÃ¡d
+pÃ­Ä dÃ©lkovÃ¡ mÃ­ra
+pÃ­k pÃ­ky 2.pÃ¡d
+pÃ­p citoslovce
+pÃ­t hasit Å¾Ã­zeÅˆ
+plÃ¡ plÃ¡polÃ¡
+plh Å¾ivoÄich
 plk nesmysl
-pln naplnìn
-plò naplò !
-pl vor
-pl hlemıï
-pne napíná
-pnì paøezy
-pni napínej
-pnu napínám
-pod pèedloka
+pln naplnÄ›n
+plÅˆ naplÅˆ !
+plÅ¥ vor
+plÅ¾ hlemÃ½Å¾Ä
+pne napÃ­nÃ¡
+pnÄ› paÅ™ezy
+pni napÃ­nej
+pnu napÃ­nÃ¡m
+pod pÄedloÅ¾ka
 Poe spisovatel
-pop knìz
+pop knÄ›z
 pot znoj
-po potit rozk. zp.
-pól severní
-pór zelenina
-prd pšouk
-prï pšoukej !
-pro pøedloka
-prs òadro
-prš padej z nebe
-prı snad
-pøe spor
-pøi pøedloka
-pøu soudím se
-psi šelmy
-psí pes 2.pád
+poÅ¥ potit rozk. zp.
+pÃ³l severnÃ­
+pÃ³r zelenina
+prd pÅ¡ouk
+prÄ pÅ¡oukej !
+pro pÅ™edloÅ¾ka
+prs Åˆadro
+prÅ¡ padej z nebe
+prÃ½ snad
+pÅ™e spor
+pÅ™i pÅ™edloÅ¾ka
+pÅ™u soudÃ­m se
+psi Å¡elmy
+psÃ­ pes 2.pÃ¡d
 pst citoslovce
 psu pes
-3.p ád
-psù psi 2.pád
-psy pes 4.pád
-pšt citoslovce
-puè spiknutí
-pud pøirozenı sklon
-puk kotouè
-pum pumy 2.pád
-Pun èlen národa
-Pup název hotelu
-pur èist. prostøedek
+3.p Ã¡d
+psÅ¯ psi 2.pÃ¡d
+psy pes 4.pÃ¡d
+pÅ¡t citoslovce
+puÄ spiknutÃ­
+pud pÅ™irozenÃ½ sklon
+puk kotouÄ
+pum pumy 2.pÃ¡d
+Pun Älen nÃ¡roda
+Pup nÃ¡zev hotelu
+pur Äist. prostÅ™edek
 pus pusy
-2.p ád
-pu citoslovce
-pùl polovina
-pyl poprašek
-pır plevel
+2.p Ã¡d
+puÅ¥ citoslovce
+pÅ¯l polovina
+pyl popraÅ¡ek
+pÃ½r plevel
 rab otrok
-raè vstoupit
+raÄ vstoupit
 rad rady
-2.p ád
-raï radit rozk.zp.
+2.p Ã¡d
+raÄ radit rozk.zp.
 raf citoslovce
-rak vodní tvor
-ran rány
-2,p ád
-raò ranit
+rak vodnÃ­ tvor
+ran rÃ¡ny
+2,p Ã¡d
+raÅˆ ranit
 roz k.zp.
-rap kùò
-ras pohodnı
-raš rašit
+rap kÅ¯Åˆ
+ras pohodnÃ½
+raÅ¡ raÅ¡it
 roz k.zp.
-Ray muské jméno
+Ray muÅ¾skÃ© jmÃ©no
 raz voj. povel
-ra razit rozk. zp.
-ráb otrok
-rád mít rád
-ráj eden
-rám obrazu
-ráz úder
-Rá èeskı herec
-rci øekni básn.
-rdí èervená se
+raÅ¾ razit rozk. zp.
+rÃ¡b otrok
+rÃ¡d mÃ­t rÃ¡d
+rÃ¡j eden
+rÃ¡m obrazu
+rÃ¡z Ãºder
+RÃ¡Å¾ ÄeskÃ½ herec
+rci Å™ekni bÃ¡sn.
+rdÃ­ ÄervenÃ¡ se
 rej masek
 rek sok
 rep druh hudby
-ret èást úst
-Rex jméno psa
-rez oxid eleza
-re obilovina
-rév révy 2.pád
-Rio španìlsky øeka
-rka øíci pøechodník
-rku øíkám básn.
-rod pokolení
-roï rodit rozk. zp.
+ret ÄÃ¡st Ãºst
+Rex jmÃ©no psa
+rez oxid Å¾eleza
+reÅ¾ obilovina
+rÃ©v rÃ©vy 2.pÃ¡d
+Rio Å¡panÄ›lsky Å™eka
+rka Å™Ã­ci pÅ™echodnÃ­k
+rku Å™Ã­kÃ¡m bÃ¡sn.
+rod pokolenÃ­
+roÄ rodit rozk. zp.
 roh hrana
-roj spoleèenství
-rok èas. úsek
-Rom cikán
-roò slzy
+roj spoleÄenstvÃ­
+rok Äas. Ãºsek
+Rom cikÃ¡n
+roÅˆ slzy
 ros rosit rozk. zp.
 rot roty
-2.p ád
+2.p Ã¡d
 rov hrob
-rób bez en.šatù
-rub a líc
-rud rudy 2.pád
+rÃ³b bez Å¾en.Å¡atÅ¯
+rub a lÃ­c
+rud rudy 2.pÃ¡d
 ruk ruce
-2.p ád
+2.p Ã¡d
 rum lihovina
 run krach
 rup citoslovce
-Rur román K,Èapka
-rus èlen národa
-ruš rušit
+Rur romÃ¡n K,ÄŒapka
+rus Älen nÃ¡roda
+ruÅ¡ ruÅ¡it
 roz k. zp.
-Rút en. jméno
-rù èerveò
-rve trhá
+RÃºt Å¾en. jmÃ©no
+rÅ¯Å¾ ÄerveÅˆ
+rve trhÃ¡
 rvi trhej !
-rvu trhám
-ryb ryby 2.pád
-ryj pùdu
-ryk vøava
-ryl pùdu
-rys šelma
-ryt rıti pøíèestí minulé
-rıè nástroj
-rıh rıhy 2.pád
-rım souzvuk
-rın nìm. øeka
-rıt zpracovávat pùdu
-rzi rez mno.èíslo
-rzí rez 7.pád
-øad zástup
-øaï øadit rozk, zp,
-øas øasy
-2.p ád
-øád poøádek
-øeè mluva
-øeï øedit rozk. zp.
-Øek èlen národa
-øep øepa
-2.p ád
-øeš øešit
+rvu trhÃ¡m
+ryb ryby 2.pÃ¡d
+ryj pÅ¯du
+ryk vÅ™ava
+ryl pÅ¯du
+rys Å¡elma
+ryt rÃ½ti pÅ™Ã­ÄestÃ­ minulÃ©
+rÃ½Ä nÃ¡stroj
+rÃ½h rÃ½hy 2.pÃ¡d
+rÃ½m souzvuk
+rÃ½n nÄ›m. Å™eka
+rÃ½t zpracovÃ¡vat pÅ¯du
+rzi rez mnoÅ¾.ÄÃ­slo
+rzÃ­ rez 7.pÃ¡d
+Å™ad zÃ¡stup
+Å™aÄ Å™adit rozk, zp,
+Å™as Å™asy
+2.p Ã¡d
+Å™Ã¡d poÅ™Ã¡dek
+Å™eÄ mluva
+Å™eÄ Å™edit rozk. zp.
+Å˜ek Älen nÃ¡roda
+Å™ep Å™epa
+2.p Ã¡d
+Å™eÅ¡ Å™eÅ¡it
 roz k. zp,
-øev kravál
-øez pilou
-øe øezat
+Å™ev kravÃ¡l
+Å™ez pilou
+Å™eÅ¾ Å™ezat
 roz k. zp.
-øiï øídit
+Å™iÄ Å™Ã­dit
 roz k. zp.
-øi otvor tìla
-Øím mìsto
-Øíp hora
-øíz ostrá chu
-øve køièí
-øvi køiè !
-øvu køièím
+Å™iÅ¥ otvor tÄ›la
+Å˜Ã­m mÄ›sto
+Å˜Ã­p hora
+Å™Ã­z ostrÃ¡ chuÅ¥
+Å™ve kÅ™iÄÃ­
+Å™vi kÅ™iÄ !
+Å™vu kÅ™iÄÃ­m
 sad park
-saï osazuj !
-saj nasávej !
-sak rybáøská sí
-Sam mu. jméno
-saò drak
-Sas nìmec
-sax saxofón
-sáè ssací koš
-ság ságy
-2.p ád
-sáh míra
-sál spol.místnost
-sám a já sám
-Seè osada
-sed sednutí
-seï nestùj
-sej osívej !
-sek tnutí
-sel osíval
+saÄ osazuj !
+saj nasÃ¡vej !
+sak rybÃ¡Å™skÃ¡ sÃ­Å¥
+Sam muÅ¾. jmÃ©no
+saÅˆ drak
+Sas nÄ›mec
+sax saxofÃ³n
+sÃ¡Ä ssacÃ­ koÅ¡
+sÃ¡g sÃ¡gy
+2.p Ã¡d
+sÃ¡h mÃ­ra
+sÃ¡l spol.mÃ­stnost
+sÃ¡m a jÃ¡ sÃ¡m
+SeÄ osada
+sed sednutÃ­
+seÄ nestÅ¯j
+sej osÃ­vej !
+sek tnutÃ­
+sel osÃ­val
 sem tady
-sen pøelud
-ser sprosté slovo
-seš jsi
+sen pÅ™elud
+ser sprostÃ© slovo
+seÅ¡ jsi
 set sada
-sex pohlavní pud
+sex pohlavnÃ­ pud
 sic sice
-sil oséval
+sil osÃ©val
 sir ang. titul
-siø síøit sudy
-síh ryba
-síò aula
-sít osévat
-sí osnova
-ski lye
-smí mùe
-sní nebdí
-sny pøeludy
-snù sny
-2.p ád
-sob zvíøe
-sok soupeø
-sol solmizaèní slabika
-sos pomóc !
-sov sovy 2.pád
+siÅ™ sÃ­Å™it sudy
+sÃ­h ryba
+sÃ­Åˆ aula
+sÃ­t osÃ©vat
+sÃ­Å¥ osnova
+ski lyÅ¾e
+smÃ­ mÅ¯Å¾e
+snÃ­ nebdÃ­
+sny pÅ™eludy
+snÅ¯ sny
+2.p Ã¡d
+sob zvÃ­Å™e
+sok soupeÅ™
+sol solmizaÄnÃ­ slabika
+sos pomÃ³c !
+sov sovy 2.pÃ¡d
 spi nebdi !
-spí nebdí
-Spa belg. láznì
-Spy èasopis
-srb èlen národa
+spÃ­ nebdÃ­
+Spa belg. lÃ¡znÄ›
+Spy Äasopis
+srb Älen nÃ¡roda
 srk hlt
 srn srny
-2.p ád
-srp nástroj
+2.p Ã¡d
+srp nÃ¡stroj
 sta stovky
-stá èíslovka øadová
-sté èíslovka øadová
-stí èíslovka øadová
-sto èíslovka
+stÃ¡ ÄÃ­slovka Å™adovÃ¡
+stÃ© ÄÃ­slovka Å™adovÃ¡
+stÃ­ ÄÃ­slovka Å™adovÃ¡
+sto ÄÃ­slovka
 stu sto
-3.p ád
-stı èíslovka øadová
+3.p Ã¡d
+stÃ½ ÄÃ­slovka Å™adovÃ¡
 sud 
-suï posuzuj !
-suk ve døevì
-suò posunuj !
-sup pták
-suš ponoky
-su štìrk
-sùl Nacl
-sùv sùvy 2.pád
-svá zájmeno
-své zájmeno
-sví zájmeno
-svı zájmeno
+suÄ posuzuj !
+suk ve dÅ™evÄ›
+suÅˆ posunuj !
+sup ptÃ¡k
+suÅ¡ ponoÅ¾ky
+suÅ¥ Å¡tÄ›rk
+sÅ¯l Nacl
+sÅ¯v sÅ¯vy 2.pÃ¡d
+svÃ¡ zÃ¡jmeno
+svÃ© zÃ¡jmeno
+svÃ­ zÃ¡jmeno
+svÃ½ zÃ¡jmeno
 syn potomek
 syp sypej !
 syt nasycen
-sy krm
-sır pokrm
-šah emír
-šat odìv
-ša ošacuj !
-šáh emír
-šál šátek na krk
-šèi polévka
-šeï barva
-šek cennı papír
-šel chodil
-šeø šeøit rozk. zp.
-šev spoj
-šéf vedoucí
-šém klíè pro goléma
-šiï šidit
+syÅ¥ krm
+sÃ½r pokrm
+Å¡ah emÃ­r
+Å¡at odÄ›v
+Å¡aÅ¥ oÅ¡acuj !
+Å¡Ã¡h emÃ­r
+Å¡Ã¡l Å¡Ã¡tek na krk
+Å¡Äi polÃ©vka
+Å¡eÄ barva
+Å¡ek cennÃ½ papÃ­r
+Å¡el chodil
+Å¡eÅ™ Å¡eÅ™it rozk. zp.
+Å¡ev spoj
+Å¡Ã©f vedoucÃ­
+Å¡Ã©m klÃ­Ä pro golÃ©ma
+Å¡iÄ Å¡idit
 roz k. zp.
-šij zašívej !
-šik zástup
-šil zašíval
-šiò posunuj !
-šIø šíøit
+Å¡ij zaÅ¡Ã­vej !
+Å¡ik zÃ¡stup
+Å¡il zaÅ¡Ã­val
+Å¡iÅˆ posunuj !
+Å¡IÅ™ Å¡Ã­Å™it
 roz k . zp.
-šit šít pøíèestí minulé
-šíf loï
-šín koleje 2.pád
-šíp a luk
-šít zašívat
-šla nestála
-šle kšandy
-šli nestáli
-šlí kšand
-šlo nestálo
-šly nestály
-šok stres
-šop kùlny 2.pád náøeè
-šos cíp
-šot klip
-šou zábava
-šul šiï
-šum hluk pozadí
-šup citoslovce
-šus blázen ostravsky
-švu šev
-2.p ád
-švù švy 2.pád
-švy spoje
-tah flám
-taj záhada
-tak zájmeno
-Tal šachovı mistr
-tam pøíslovce
-tas meè
-Tau pán Tau
+Å¡it Å¡Ã­t pÅ™Ã­ÄestÃ­ minulÃ©
+Å¡Ã­f loÄ
+Å¡Ã­n koleje 2.pÃ¡d
+Å¡Ã­p a luk
+Å¡Ã­t zaÅ¡Ã­vat
+Å¡la nestÃ¡la
+Å¡le kÅ¡andy
+Å¡li nestÃ¡li
+Å¡lÃ­ kÅ¡and
+Å¡lo nestÃ¡lo
+Å¡ly nestÃ¡ly
+Å¡ok stres
+Å¡op kÅ¯lny 2.pÃ¡d nÃ¡Å™eÄ
+Å¡os cÃ­p
+Å¡ot klip
+Å¡ou zÃ¡bava
+Å¡ul Å¡iÄ
+Å¡um hluk pozadÃ­
+Å¡up citoslovce
+Å¡us blÃ¡zen ostravsky
+Å¡vu Å¡ev
+2.p Ã¡d
+Å¡vÅ¯ Å¡vy 2.pÃ¡d
+Å¡vy spoje
+tah flÃ¡m
+taj zÃ¡hada
+tak zÃ¡jmeno
+Tal Å¡achovÃ½ mistr
+tam pÅ™Ã­slovce
+tas meÄ
+Tau pÃ¡n Tau
 tav tavit rozk.zp.
-tác podnos
-tág tága
-2.p ád
-ták zájmeno tázací
-tál podnos
-tá zájmeno
-teè v tenise dotek sítì
-Ted muská jméno
-teï nyní
-tee èaj
-ten zájmeno
+tÃ¡c podnos
+tÃ¡g tÃ¡ga
+2.p Ã¡d
+tÃ¡k zÃ¡jmeno tÃ¡zacÃ­
+tÃ¡l podnos
+tÃ¡Å¾ zÃ¡jmeno
+teÄ v tenise dotek sÃ­tÄ›
+Ted muÅ¾skÃ¡ jmÃ©no
+teÄ nynÃ­
+tee Äaj
+ten zÃ¡jmeno
 tep puls
 tes sekerou
 tet tety
-2.p ád
-tex šroub
-tér asfalt
-té také
-tìl tìla 2.pád
-tìm zájmeno
-tìr plùdek
-tìš tìšit rozk.zp.
-tì tìit
+2.p Ã¡d
+tex Å¡roub
+tÃ©r asfalt
+tÃ©Å¾ takÃ©
+tÄ›l tÄ›la 2.pÃ¡d
+tÄ›m zÃ¡jmeno
+tÄ›r plÅ¯dek
+tÄ›Å¡ tÄ›Å¡it rozk.zp.
+tÄ›Å¾ tÄ›Å¾it
 roz k.zp.
 tik citoslovce
-Tim muské jméno
-tip pøedpovìï
+Tim muÅ¾skÃ© jmÃ©no
+tip pÅ™edpovÄ›Ä
 tis strom
-tiš utišuj !
-tix èistící prostøedek
-ti ti sami
-tíh zbavit se tíí (tíh)
-tím tím pádem
-típ citoslovce
-tít tnouti
-tí ti sami
-tká plátno
-tlí doutná
-tlo strop z køíovek
-tma èiroèirá
-tmì tma 6.pád
-tmí stmívá
-tmu tma 4.pád
+tiÅ¡ utiÅ¡uj !
+tix ÄistÃ­cÃ­ prostÅ™edek
+tiÅ¾ ti sami
+tÃ­h zbavit se tÃ­Å¾Ã­ (tÃ­h)
+tÃ­m tÃ­m pÃ¡dem
+tÃ­p citoslovce
+tÃ­t tnouti
+tÃ­Å¾ ti sami
+tkÃ¡ plÃ¡tno
+tlÃ­ doutnÃ¡
+tlo strop z kÅ™Ã­Å¾ovek
+tma ÄiroÄirÃ¡
+tmÄ› tma 6.pÃ¡d
+tmÃ­ stmÃ­vÃ¡
+tmu tma 4.pÃ¡d
 tmy tma
-2.p ád
+2.p Ã¡d
 tne sekne
 tni sekni
 tnu seknu
-toè otáèej !
-tok èasu
-Tom muské jméno
-Ton nábyt.podnik
-toò top se !
-top pøikládej !
+toÄ otÃ¡Äej !
+tok Äasu
+Tom muÅ¾skÃ© jmÃ©no
+Ton nÃ¡byt.podnik
+toÅˆ top se !
+top pÅ™iklÃ¡dej !
 Tos stroj, podnik
-to zájmeno
+toÅ¥ zÃ¡jmeno
 tou tou samou
-to pøíslovce
-tóg tógy
-2.p ád
-tón zvuk
-trá citoslovce
-trè vyènívej !
-tre trojí básn.
-tré troje básn.
-trh nákupní událost
-trk trknutí
+toÅ¾ pÅ™Ã­slovce
+tÃ³g tÃ³gy
+2.p Ã¡d
+tÃ³n zvuk
+trÃ¡ citoslovce
+trÄ vyÄnÃ­vej !
+tre trojÃ­ bÃ¡sn.
+trÃ© troje bÃ¡sn.
+trh nÃ¡kupnÃ­ udÃ¡lost
+trk trknutÃ­
 trn osten
-trò mìj strach
-trp mìj bolest
+trÅˆ mÄ›j strach
+trp mÄ›j bolest
 trs drn
-tr mìj zisk
-tøe tøe si ruce
-tøi èíslovka
-tøí do tøí
-tøu si ruce
-tub tuby 2.pád
+trÅ¾ mÄ›j zisk
+tÅ™e tÅ™e si ruce
+tÅ™i ÄÃ­slovka
+tÅ™Ã­ do tÅ™Ã­
+tÅ™u si ruce
+tub tuby 2.pÃ¡d
 tuf hornina
-tuh tuhy 2,.pád
+tuh tuhy 2,.pÃ¡d
 tuk omastek
 tul tulit
 roz k.zp.
-tun tuny 2.pád
+tun tuny 2.pÃ¡d
 tub tuby
-2.p ád
+2.p Ã¡d
 tup otupuj !
-tur zvíøe
-tuš fanfára
-tu tuit
+tur zvÃ­Å™e
+tuÅ¡ fanfÃ¡ra
+tuÅ¾ tuÅ¾it
 roz k. zp.
-tùò hlubina
-tvá tvoje
-tvé tvoje
-tví tvoji
-tyè kùl
+tÅ¯Åˆ hlubina
+tvÃ¡ tvoje
+tvÃ© tvoje
+tvÃ­ tvoji
+tyÄ kÅ¯l
 tyf tyfus
-tyj zneuívej !
-Tyl Josef Kajetán
+tyj zneuÅ¾Ã­vej !
+Tyl Josef KajetÃ¡n
 typ vzor
-tıl èást hlavy
-tım manšaft
-Tın mšsto
-tı tantı
-ap citoslovce
-uèí uèit se 3.os,jdn.è.
-udí konzervuje
-Udo mìm.jméno
-Ufa mìsto v Rusku
-Ufì Ufa
-6.p ád
-UFO neznámı objekt
-Ufu Ufa rus. mìsto 4.p
-Ufy Ufa 2.pád
-Ulm nìm.mìsto
-umí zná
-umu um 2.pád
-upí trpí
-urá váleènı pokøik
-Urx nìm. konunista
-USA název státu
-uši slechy
-uší uši
-2.p ád
-uí zuuje
-údy konèetiny
-úly vèelín
-úlu úly 2.pád
-Úpa øeka
-Úpu Úpa
-4.p ád
-Úpy Úpa 2.pád
-vab vábit rozk. zp.
-vad vady 2.pád
-vaï vadit rozk. zp.
-vah vıhy
-2.p ád
-vìj foukej !
-val násep
-van vìtøík
+tÃ½l ÄÃ¡st hlavy
+tÃ½m manÅ¡aft
+TÃ½n mÅ¡sto
+tÃ½Å¾ tantÃ½Å¾
+Å¥ap citoslovce
+uÄÃ­ uÄit se 3.os,jdn.Ä.
+udÃ­ konzervuje
+Udo mÄ›m.jmÃ©no
+Ufa mÄ›sto v Rusku
+UfÄ› Ufa
+6.p Ã¡d
+UFO neznÃ¡mÃ½ objekt
+Ufu Ufa rus. mÄ›sto 4.p
+Ufy Ufa 2.pÃ¡d
+Ulm nÄ›m.mÄ›sto
+umÃ­ znÃ¡
+umu um 2.pÃ¡d
+upÃ­ trpÃ­
+urÃ¡ vÃ¡leÄnÃ½ pokÅ™ik
+Urx nÄ›m. konunista
+USA nÃ¡zev stÃ¡tu
+uÅ¡i slechy
+uÅ¡Ã­ uÅ¡i
+2.p Ã¡d
+uÅ¾Ã­ zuÅ¾uje
+Ãºdy konÄetiny
+Ãºly vÄelÃ­n
+Ãºlu Ãºly 2.pÃ¡d
+Ãšpa Å™eka
+Ãšpu Ãšpa
+4.p Ã¡d
+Ãšpy Ãšpa 2.pÃ¡d
+vab vÃ¡bit rozk. zp.
+vad vady 2.pÃ¡d
+vaÄ vadit rozk. zp.
+vah vÃ½hy
+2.p Ã¡d
+vÄ›j foukej !
+val nÃ¡sep
+van vÄ›tÅ™Ã­k
 var 100 st,C
-vaø hrneèku
-vaz páteø
-va zvauj !
-vád hádky 2.pád
-Váh øeka
-vál vítr
-vám zájmeno
-vás zájmeno
-váš zájmeno
-vát foukat
-veï vodit rozk. zp.
-vek veky 2.pád
+vaÅ™ hrneÄku
+vaz pÃ¡teÅ™
+vaÅ¾ zvaÅ¾uj !
+vÃ¡d hÃ¡dky 2.pÃ¡d
+VÃ¡h Å™eka
+vÃ¡l vÃ­tr
+vÃ¡m zÃ¡jmeno
+vÃ¡s zÃ¡jmeno
+vÃ¡Å¡ zÃ¡jmeno
+vÃ¡t foukat
+veÄ vodit rozk. zp.
+vek veky 2.pÃ¡d
 vel velet rozk. zp.
 vem vezmi
-ven a dovnitø
+ven a dovnitÅ™
 ves osada
-veš pøiivník
-vet veta 2.pád
-vez vézti
+veÅ¡ pÅ™iÅ¾ivnÃ­k
+vet veta 2.pÃ¡d
+vez vÃ©zti
 roz k. zp.
-véd védy 2.pád
-vìc nìco hnotného
-vìd kandidát
-vìk doba
-vìn vìna
-2.p ád
-vìø mìj víru
-vìš prádlo
-vìt vìty 2.pád
-vìz vìdìt rozk. zp.
-vì kostela
+vÃ©d vÃ©dy 2.pÃ¡d
+vÄ›c nÄ›co hnotnÃ©ho
+vÄ›d kandidÃ¡t
+vÄ›k doba
+vÄ›n vÄ›na
+2.p Ã¡d
+vÄ›Å™ mÄ›j vÃ­ru
+vÄ›Å¡ prÃ¡dlo
+vÄ›t vÄ›ty 2.pÃ¡d
+vÄ›z vÄ›dÄ›t rozk. zp.
+vÄ›Å¾ kostela
 via cesta lat.
-vid slovesnı
-viï e jó !
-vij vìnec
-vil vily 2.pád
-vin viny 2.pád
-viò vinout
+vid slovesnÃ½
+viÄ Å¾e jÃ³ !
+vij vÄ›nec
+vil vily 2.pÃ¡d
+vin viny 2.pÃ¡d
+viÅˆ vinout
 roz k.zp.
-viø víøit
+viÅ™ vÃ­Å™it
 roz k. zp.
-vis sport. úkon
+vis sport. Ãºkon
 viz hle
-víc nejen to
-vík víka 2.pád
-víl víly 2.pád
-vím znám
-vín vína 2.pád
-vír proud
-víš a znáš
-Vít muské jméno
-vix krém na boty lid.
-vjo pobídka konì
-vjó pobídka konì
-vnì zvenku
-vod vody 2.pád
-voï na øetízku
-voj vojenskı útvar
+vÃ­c nejen to
+vÃ­k vÃ­ka 2.pÃ¡d
+vÃ­l vÃ­ly 2.pÃ¡d
+vÃ­m znÃ¡m
+vÃ­n vÃ­na 2.pÃ¡d
+vÃ­r proud
+vÃ­Å¡ a znÃ¡Å¡
+VÃ­t muÅ¾skÃ© jmÃ©no
+vix krÃ©m na boty lid.
+vjo pobÃ­dka konÄ›
+vjÃ³ pobÃ­dka konÄ›
+vnÄ› zvenku
+vod vody 2.pÃ¡d
+voÄ na Å™etÃ­zku
+voj vojenskÃ½ Ãºtvar
 Vok Petr
 vol volit rozk. zp.
-voò vonìt rozk. zp.
-vor pl
-vos vosy 2.pád
+voÅˆ vonÄ›t rozk. zp.
+vor plÅ¥
+vos vosy 2.pÃ¡d
 voz vozit rozk. zp.
-vlá vlaje
-vlk šelma
+vlÃ¡ vlaje
+vlk Å¡elma
 vln vlny
-2.p ád
-vlò zvlòuj !
-vl vlhnout rozk. zp.
+2.p Ã¡d
+vlÅˆ zvlÅˆuj !
+vlÅ¾ vlhnout rozk. zp.
 vrb vrby
-2.p ád
-vrè vrèet
+2.p Ã¡d
+vrÄ vrÄet
 roz k. zp.
 vrh hod
 vrk citoslovce
-vrò vrnìt
+vrÅˆ vrnÄ›t
 roz k. zp.
 vrr citoslovce
-vrš skládej !
+vrÅ¡ sklÃ¡dej !
 vrt sonda
-vr vrtìt
+vrÅ¥ vrtÄ›t
 roz k. zp.
 vrz citoslovce
-vr vrzat
+vrÅ¾ vrzat
 roz k. zp.
-vøe vaøí
-vøi  vøít
+vÅ™e vaÅ™Ã­
+vÅ™i  vÅ™Ã­t
 roz k. zp.
-vøu vøít 1.os.
+vÅ™u vÅ™Ã­t 1.os.
 vsi vesnice
-vsí ves 7.pád
-vše všechno
-vši paraziti
-vší silou
-vùl ta. zvíøe
-vyl vıti
-3.o s.min. èas
-vyj vıti rozk. zp.
-vır sova
-vıš vıše
-vıt na mìsíc
-zab usmr !
-zad záda
-2.p ád
-zaø záøit
+vsÃ­ ves 7.pÃ¡d
+vÅ¡e vÅ¡echno
+vÅ¡i paraziti
+vÅ¡Ã­ silou
+vÅ¯l taÅ¾. zvÃ­Å™e
+vyl vÃ½ti
+3.o s.min. Äas
+vyj vÃ½ti rozk. zp.
+vÃ½r sova
+vÃ½Å¡ vÃ½Å¡e
+vÃ½t na mÄ›sÃ­c
+zab usmrÅ¥ !
+zad zÃ¡da
+2.p Ã¡d
+zaÅ™ zÃ¡Å™it
 roz k. zp.
-zas opìt
-záï lodì
-záø svit
-zda pøíslovce
-zdá co se zdá
+zas opÄ›t
+zÃ¡Ä lodÄ›
+zÃ¡Å™ svit
+zda pÅ™Ã­slovce
+zdÃ¡ co se zdÃ¡
 zde tady
-zdi stìny
-zdí za zdí
-zaè za co soudruzi
-zeï stìna
-zem hlína
-zet písmeno
-ze pøíbuznı
-zim zimy 2.pád
+zdi stÄ›ny
+zdÃ­ za zdÃ­
+zaÄ za co soudruzi
+zeÄ stÄ›na
+zem hlÃ­na
+zet pÃ­smeno
+zeÅ¥ pÅ™Ã­buznÃ½
+zim zimy 2.pÃ¡d
 zip zdrhovadlo
-zle špatnì
-zlí špatní
-zlo špatnost
-zlo špatnost
+zle Å¡patnÄ›
+zlÃ­ Å¡patnÃ­
+zlo Å¡patnost
+zlo Å¡patnost
 zlu zlo
-3.p ád
-zlı ne dobrı
-zná a ví
-zní hudba
+3.p Ã¡d
+zlÃ½ ne dobrÃ½
+znÃ¡ a vÃ­
+znÃ­ hudba
 zob krmivo
-Zoe jméno
-zol podlaha náøeè.
+Zoe jmÃ©no
+zol podlaha nÃ¡Å™eÄ.
 Zoo zahrada
-zón zóny
-2.p ád
-zrn zrní
-2,p ád
-zøi dívej se ! básn.
-zøe vidí
+zÃ³n zÃ³ny
+2.p Ã¡d
+zrn zrnÃ­
+2,p Ã¡d
+zÅ™i dÃ­vej se ! bÃ¡sn.
+zÅ™e vidÃ­
 zub kel
 zuj boty
 zul boty
-zuø zuøit rozk. zp.
-zú zúit rozk. zp.
+zuÅ™ zuÅ™it rozk. zp.
+zÃºÅ¾ zÃºÅ¾it rozk. zp.
 zve na mejdan
 zvi pozvi !
 zvu na mejdan
-ab áby
-2.p ád
-al smutek
-at pait byl at
-ák student
-ár vıheò
-eh pohøeb
-el bohu
-en eny 2 .pád
-eò odmìna
-er rát rozk. zp,
-es e jsi
-et pásmeno
-id èlen národa
-ij ít rozk. zp.
-il jedu do il
-it pøíèestí minulé
-iv ivı básn.
-ír vıkrm
-ít existovat
-ne obilí
-nì sklizeò
-ni sklízej
-ní nì 2.pád
-nu sekám
-ok nádoba
-uk znaèka auta
-ul uly 2.pád
-up upy 2.pád
+Å¾ab Å¾Ã¡by
+2.p Ã¡d
+Å¾al smutek
+Å¾at paÅ¾it byl Å¾at
+Å¾Ã¡k student
+Å¾Ã¡r vÃ½heÅˆ
+Å¾eh pohÅ™eb
+Å¾el bohu
+Å¾en Å¾eny 2 .pÃ¡d
+Å¾eÅˆ odmÄ›na
+Å¾er Å¾rÃ¡t rozk. zp,
+Å¾es Å¾e jsi
+Å¾et pÃ¡smeno
+Å¾id Älen nÃ¡roda
+Å¾ij Å¾Ã­t rozk. zp.
+Å¾il jedu do Å¾il
+Å¾it pÅ™Ã­ÄestÃ­ minulÃ©
+Å¾iv Å¾ivÃ½ bÃ¡sn.
+Å¾Ã­r vÃ½krm
+Å¾Ã­t existovat
+Å¾ne obilÃ­
+Å¾nÄ› sklizeÅˆ
+Å¾ni sklÃ­zej
+Å¾nÃ­ Å¾nÄ› 2.pÃ¡d
+Å¾nu sekÃ¡m
+Å¾ok nÃ¡doba
+Å½uk znaÄka auta
+Å¾ul Å¾uly 2.pÃ¡d
+Å¾up Å¾upy 2.pÃ¡d
