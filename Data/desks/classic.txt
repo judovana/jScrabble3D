@@ -1,0 +1,16 @@
+15x15
+t  x   t   x  t
+ d   y   y   d 
+  d   x x   d  
+x  d   x   d  x
+    d     d    
+ y   y   y   y 
+  x   x x   x  
+t  x   s   x  t
+  x   x x   x  
+ y   y   y   y 
+    d     d    
+x  d   x   d  x
+  d   x x   d  
+ d   y   y   d 
+t  x   t   x  t

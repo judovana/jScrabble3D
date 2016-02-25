@@ -1,0 +1,3 @@
+CR SYNTAX:
+[name][][lastfile number][][number of 0 chars in countin]
+[name][][lastfile number][][pointx][][pointy][][max animation index][][right click image][][leftclick image][][number of 0 chars in counting]

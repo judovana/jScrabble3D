@@ -1,0 +1,60 @@
+ <server>
+  <address>
+  http://www.mellony.cz/hledani/search.php
+  </address>
+  <methods>
+    <post>
+      <item>
+<key>
+S
+</key>
+<value>
+[!word!]
+</value>
+      </item>
+    </post>
+    <get>
+    </get>
+  </methods>
+<max_word_length>
+5
+</max_word_length>
+<encoding>
+NONE
+</encoding>
+  <prefered_method>
+  [!post!]
+  </prefered_method>
+  <word_found>
+  je ve slovníku
+  </word_found>
+  <word_notfound>
+  </word_notfound>
+  <prefered_search>
+  [!found!]
+  </prefered_search>
+  <keywords>
+    <item popis="zda je preferovano hledat na strance retezec symbolizujici nalezeni">
+    [!found!]
+    </item >
+    <item popis="zda je preferovano hledat na strance retezec symbolizujici nenalezeni">
+    [!notfound!]
+    </item>
+    <item popis="tento prediakt se nahradi slovem">
+    [!word!]
+    </item>
+    <item popis="pouziti jen post">
+    [!post!]
+    </item>
+    <item popis="pouziti jen get">
+    [!get!]
+    </item>
+    <item popis="pouzit post i get v pripade prefered method, pouzit jak hlednai nalezeneho retezce, tak nenalezeneho v pripade word">
+    [!both!]
+    </item>
+  </keywords>
+<info>
+Maximlani delka 5
+jazyk:cz
+</info>
+</server>

@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<audacityproject projname="sounds_data" version="1.1.0" audacityversion="1.2.3" sel0="1.2197029358" sel1="1.2197029358" vpos="0" h="0.0396497858" zoom="1059.2743216623" rate="44100.000000" >
+	<tags title="" artist="" album="" track="-1" year="" genre="-1" comments="" id3v2="1" />
+	<wavetrack name="Audio stopa" channel="2" linked="0" offset="0.00000000" rate="44100.000000" gain="1.000000" pan="0.000000" >
+		<sequence maxsamples="524288" sampleformat="131073" numsamples="49920" >
+			<waveblock start="0" >
+				<simpleblockfile filename='b00045.au' len='49920' min='-0.102770' max='0.092424' rms='0.017506'/>
+			</waveblock>
+		</sequence>
+		<envelope numpoints='0'>
+		</envelope>
+	</wavetrack>
+	<wavetrack name="Audio stopa" channel="2" linked="0" offset="-0.19732426" rate="44100.000000" gain="1.000000" pan="0.000000" >
+		<sequence maxsamples="524288" sampleformat="131073" numsamples="47193" >
+			<waveblock start="0" >
+				<simpleblockfile filename='b00082.au' len='47193' min='-0.118853' max='0.113603' rms='0.028278'/>
+			</waveblock>
+		</sequence>
+		<envelope numpoints='4'>
+			<controlpoint t='0.197319263039' val='1.000000000000'/>
+			<controlpoint t='0.197324263039' val='1.000000000000'/>
+			<controlpoint t='1.070131054422' val='1.000000000000'/>
+			<controlpoint t='1.070136054422' val='1.000000000000'/>
+		</envelope>
+	</wavetrack>
+	<wavetrack name="Audio stopa" channel="2" linked="0" offset="-0.19154195" rate="44100.000000" gain="1.000000" pan="0.000000" >
+		<sequence maxsamples="524288" sampleformat="131073" numsamples="55512" >
+			<waveblock start="0" >
+				<simpleblockfile filename='b00090.au' len='55512' min='-0.141100' max='0.137804' rms='0.017422'/>
+			</waveblock>
+		</sequence>
+		<envelope numpoints='2'>
+			<controlpoint t='0.191536950113' val='1.000000000000'/>
+			<controlpoint t='0.191541950113' val='1.000000000000'/>
+		</envelope>
+	</wavetrack>
+</audacityproject>

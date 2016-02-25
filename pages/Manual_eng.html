@@ -1,0 +1,269 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+  <meta content="text/html; charset=windows-1250" http-equiv="content-type">
+  <title>Manual eng</title>
+</head>
+<body>
+<h1>Manual</h1>
+<a href="#part_two:_first_screen"></a><br>
+part one: <a href="#You_can_:">How to extend your scrabble:</a><br>
+part two: <a href="Manual_eng.html#part_two:_first_screen">First screen</a>
+<h3><a name="You_can_:"></a>You can :</h3>
+<ol>
+  <li><a href="#1:Add_new_desk:">add your own desks</a></li>
+  <li><a href="#2._Add_new_Dictionary">add your own dictionary</a></li>
+  <li><a href="#3._add_letters">add your own letters</a></li>
+  <li><a href="#4.Add_lettersets">add your own lettersets</a></li>
+  <li><a href="#5.Add_yor_own_servers_to_control_the">add your own servers to control the letters</a></li>
+  <li><a href="#6_OPISOVANY_SCRABBLE">play with yourself "with predicted letters"</a></li>
+  <li><a href="#8_Add_new_cursor">add yor own cursors</a><br>
+  </li>
+</ol>
+<h4><a name="1:Add_new_desk:"></a>1:Add new desk:</h4>
+just create new&nbsp;text file in Data\desks directory with this rules:<br>
+<ul>
+  <li>line one is MxN where M is the size in x directionn and N is size
+in Y direction for 2D desk. rectangle is alowed but there is an minor
+bug.(but it can be palyable)</li>
+  <li>for 3D desk is the synatx: MxNxZ where M is the size in x
+directionn and N is size in Y direction and Z is number of floors. This
+also signalized that the file will be 3D desktop.</li>
+  <li>now each line needs to be exactly as long as M(in num. of characters)</li>
+  <ul>
+    <li>t=triple word</li>
+    <li>d=double word</li>
+    <li>x=double letter</li>
+    <li>y=triple letter</li>
+    <li>s=starting point (there can be more then one, but is not properly tested)</li>
+    <li>space=just empty square(doubled word in fiirtst turn)</li>
+  </ul>
+  <li>3D desks needs an empty (or however filled) line between individual levels.</li>
+  <li>3D desks needs as many floors as was specified in Z</li>
+  <li>the "empty line" is nessesary at the end of 3D desk but not in 2D</li>
+  <li>if game&nbsp; crasheses loading new desk, in 99% it is invoked by wrong length of any line or but num. of lines.</li>
+</ul>
+<h4><a name="2._Add_new_Dictionary"></a>2. Add new Dictionary</h4>
+just copy or create new text file to Data\dictionaries<br>
+The syntax is [WORD][SPACE-if you want an description][DESCRIPTION OF A NEW WORD - optional]<br>
+for example &nbsp;<br>
+<ul>
+  <li>tree living thing, plant mostly with leaves and mostly with bark</li>
+  <ul>
+    <li>tree=word</li>
+    <li>living thing, plant mostly with leaves and mostly with bark=descriotion</li>
+  </ul>
+</ul>
+dictionary user is loaded always. The words added during gamepaly is included here.<br>
+<br>
+<h4><a name="3._add_letters"></a>3. Add letters</h4>
+Create image file (png(recomanded),jpg,bmp,non animated gif) with size
+2^m x 2^n (ex: 16*32, but the square is recomanded) The game can accept
+even image of diferent sizes then 2^x but your computer needn't<br>
+Save it enywhere, in Data\textures\letters\......\.... &nbsp; \..\.. = whenewer you wish with name as you want.<br>
+If you create your absolutly saprarate letterset, you need to create
+also BACKGROUND of letters (or play with CUBE (F8 key) letters:-)<br>
+Background have the same resrictions as letter. &nbsp;Default background is Data\textures\w1.png<br>
+<span style="font-weight: bold;">hint: try to creat png letter (bckgrounds etc,..) with ALPHA blenig included in image. You will be very surprised<br>
+</span>Now it is nessesaru to tell the crable where to load letters:<br>
+<h4><a name="4.Add_lettersets"></a>4.Add lettersets</h4>
+again: just create, copy text file into Data\alfabets\...<br>
+<ul>
+  <li>fitrs line is the way&nbsp; to background of letters, with prefered search in  Data\textures\letters</li>
+</ul>
+otherlines are the letters of this alphabet:<br>
+<ul>
+  <li>[Letter][space][value][space][quantity][space][path to texture, with prefered search in  Data\textures\letters]</li>
+  <ul>
+    <li>the '<span style="font-weight: bold;">*</span>' character is
+insted of lineseparator character (because of paltform independeci).
+think about it &nbsp;as '/' on linux or '\' on windows.</li>
+    <li>you can also use your native lineseparator but what if you wnt to sent this file to somebody else?</li>
+    <li>% instead of letter is WILDCARD (JOKER in czech language;)</li>
+  </ul>
+</ul>
+<h4><a name="5.Add_yor_own_servers_to_control_the"></a>5.Add yor own servers to control the word</h4>
+<ul>
+  <li>You need to creat xml descriptor in Data\Servers</li>
+  <li>example:</li>
+</ul>
+<pre>&nbsp;&lt;server&gt;</pre>
+<pre>&nbsp; &lt;address&gt;</pre>
+<pre>&nbsp; http://www.mellony.cz/hledani/search.php</pre>
+<pre>&nbsp; &lt;/address&gt;</pre>
+<pre>&nbsp; &lt;methods&gt;</pre>
+<pre>&nbsp;&nbsp;&nbsp; &lt;post&gt;</pre>
+<pre>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &lt;item&gt;</pre>
+<pre>&lt;key&gt;</pre>
+<pre>S</pre>
+<pre>&lt;/key&gt;</pre>
+<pre>&lt;value&gt;</pre>
+<pre>[!word!]</pre>
+<pre>&lt;/value&gt;</pre>
+<pre>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &lt;/item&gt;</pre>
+<pre>&nbsp;&nbsp;&nbsp; &lt;/post&gt;</pre>
+<pre>&nbsp;&nbsp;&nbsp; &lt;get&gt;</pre>
+<pre>&nbsp;&nbsp;&nbsp; &lt;/get&gt;</pre>
+<pre>&nbsp; &lt;/methods&gt;</pre>
+<pre>&lt;max_word_length&gt;</pre>
+<pre>5</pre>
+<pre>&lt;/max_word_length&gt;</pre>
+<pre>&lt;encoding&gt;</pre>
+<pre>NONE</pre>
+<pre>&lt;/encoding&gt;</pre>
+<pre>&nbsp; &lt;prefered_method&gt;</pre>
+<pre>&nbsp; [!post!]</pre>
+<pre>&nbsp; &lt;/prefered_method&gt;</pre>
+<pre>&nbsp; &lt;word_found&gt;</pre>
+<pre>&nbsp; je ve slovn&iacute;ku</pre>
+<pre>&nbsp; &lt;/word_found&gt;</pre>
+<pre>&nbsp; &lt;word_notfound&gt;</pre>
+<pre>&nbsp; &lt;/word_notfound&gt;</pre>
+<pre>&nbsp; &lt;prefered_search&gt;</pre>
+<pre>&nbsp; [!found!]</pre>
+<pre>&nbsp; &lt;/prefered_search&gt;</pre>
+<pre>&nbsp; &lt;keywords&gt;</pre>
+<pre>&nbsp;&nbsp;&nbsp;<span style="font-family: monospace;">.....</span><br></pre>
+<pre>&nbsp; &lt;/keywords&gt;</pre>
+<pre>&lt;info&gt;</pre>
+<pre>Maximlani delka 5</pre>
+<pre>jazyk:cz</pre>
+<pre>&lt;/info&gt;</pre>
+<pre>&lt;/server&gt;</pre>
+<ul>
+  <li>server - tag &nbsp;with information about the server</li>
+  <ul>
+    <li>addres-adres to script which provaids the check</li>
+    <li>methods: tag with information about data included to POST &nbsp;and GET method</li>
+    <ul>
+      <li><span style="font-weight: bold;">post&nbsp;</span>or(and)&nbsp;<span style="font-weight: bold;">get</span> aellements:</li>
+      <ul>
+        <li><span style="font-weight: bold;"><span style="font-weight: bold;">&nbsp;key </span></span>&nbsp;and <span style="font-weight: bold;">value </span>in element <span style="font-weight: bold;">item</span> will be reformated to ?key=value&amp;Key=value....all keys with their values in odrder as written in &nbsp;xmlan keyword &nbsp;<span style="font-weight: bold;">[!word!] </span>is repalced by sended word to be checked</li>
+      </ul>
+    </ul>
+    <li>max_word_length is&nbsp;element with number which
+indicate&nbsp; longest word acccepted by server. Longer word is not
+send and, it is written in output in word is ACCEPTED</li>
+    <li>encoding - if server needs any specified encoding (utf8,utf16,utf32,ansi...)</li>
+    <li>prefered_method. Only one of three keywords is expected: [!get!],[!post!], [!both!] - menas which method is used</li>
+    <li>word_found is an string which is to be searched on returned
+page to force computer recognized that word was found in server
+database.</li>
+    <li>word_notfound is an string which is to be searched on returned page to
+force computer recognized that word was NOTfound in server database.</li>
+  </ul>
+  <ul>
+    <ul>
+      <li>mostly only one of those two elements needs to be fullfiled</li>
+    </ul>
+    <li>prefered_search - if computer will look for confirmation ( [!found!] keyword) or for refute ([!notfound!] keyword) in returned page</li>
+  </ul>
+  <li>keywodrs - just information element with unspecified context</li>
+  <li>info just string with short description</li>
+</ul>
+<br>
+whenewer you added new server descriptor, dont forget to test it by
+select it on screen and press test selected -&gt;start. However all
+selected servers are tested in jscrabble3d loading progress. And if not
+succesed, game is not started.<br>
+<br>
+<h4><a name="6_OPISOVANY_SCRABBLE"></a>6 OPISOVANY SCRABBLE</h4>
+Just create somewhere text file. Each line,&nbsp;with 7 letters is row
+is one round of game, and you will have this letters. - = no letter<br>
+It is nessesary to finish the file with several ------- lines (it menas no letters and AI will stop playing).<br>
+be sure that the letterset you are using have all the letters in
+nessesary quantyty. (ex create letterset with unlimited quantyity wor
+all the letters;)<br>
+<br>
+<h4><a name="8_Add_new_cursor"></a>8 Add new cursor</h4>
+Create new dictionary in Data\cursors<br>
+create and descriptor cr.txt<br>
+the synatx is [spannOfName][space][a][space][b][space][c][space][d][space][e][space][f][space][g]<br>
+where:<br>
+<ul>
+  <li>a=number of images-1 (0-a) ex a=40 tehn img 0-40 will be looking for</li>
+  <li>&nbsp;e=image to be displayed whith rightclick</li>
+  <li>f=image to be dispalyed with left click</li>
+  <li>d&nbsp;=max animation index</li>
+  <li>b point x - to center the image to the point of cursor horizontaly</li>
+  <li>c&nbsp;point y - to center the image to the point of cursor verticaly</li>
+  <li>g=length of NUMBER in filename (eg 4 = ruka0000 (you see four zeroes here)</li>
+</ul>
+all teh images needs to be an 2^m x 2^n and anly png is suported<br>
+beaware of alfa blending! it is sdtrongly recomanded to USE it<br>
+<br>
+<br>
+<br>
+<span style="font-weight: bold; font-style: italic;">all &nbsp;changes will be avaiable after restarting the scrabble</span><br>
+<h2><a name="part_two:_first_screen"></a>part two: First screen</h2>
+<span style="font-weight: bold;">Players</span>:<br>
+<ul>
+  <li>name of player</li>
+  <li>behaviour of an player</li>
+  <ul>
+    <li>human - person siiting before this computer</li>
+    <li>idiot -will try to put some random words on desk. Often to pass, easy to be defeated</li>
+    <li>student - fast to play, prefere play short words. HARD &nbsp;to defeat.</li>
+    <li>Master - prefere to test all the words and find the best
+solution. IMPOSIBLE &nbsp;(:-) &nbsp;to deffeat, on 3D desk, unplayable
+long turn (necessity of distributed AI)</li>
+    <li>Commited sucide - prefere short words. Fast to play, normal to defett</li>
+    <li>SuperCommited... - prefere SHORTEST words. Fast to play, hard to defeat because add something to cros xyx zyz....</li>
+    <li>random - each turn will be one of the previous AI</li>
+  </ul>
+</ul>
+save - will save the palyers list to scrabble-players.txt file<br>
+laod will load the palyer list.<br>
+doubleclick on player on list will alow you to cn\hange its values
+(don'yt press add, but press ENTER and the values will be changed)<br>
+addpalyer,removepalyer -no comment;)<br>
+<br>
+<span style="font-weight: bold;">mutiple</span> <span style="font-weight: bold;">word</span>:some &nbsp;people like play scrabble only with one letter to turn.. Disable this check box to alow this variant of game<br>
+<span style="font-weight: bold;">check words</span> computer will check the words you have put before accept your turn (dont remember to select some dictionary!)<br>
+<span style="font-weight: bold;">check word on the web</span> - look<a href="#5.Add_yor_own_servers_to_control_the"> 5.Add yor own servers to control the word</a><br>
+<span style="font-weight: bold;"><span style="font-weight: bold;">allow players checks - </span></span>each player will be asked &nbsp;if the new apearece of the desk (*taht means all the letters palying one created) is (are) OK. <span style="font-weight: bold;"><span style="font-weight: bold;"></span><br>
+Letterset,Desk&nbsp; &nbsp;</span>selectt letterset and desk for this game. <br>
+<span style="font-weight: bold;">dictionary</span> select dictionarieSSSSS &nbsp;for this game (longest word can aproximate the length of the turn of the AI)<br>
+<span style="font-weight: bold;">If word is found...</span> extension for check words on the web<br>
+<span style="font-weight: bold;">gamemode<br>
+</span>
+<ul>
+  <li>hotseat - game of 0-n palyers against 0-m AI, but at last one of them is nessesary;)</li>
+  <li>internet N remote human palyers can play against M local ai and O local humans</li>
+</ul>
+<span style="font-weight: bold;">Gamestyle<br>
+</span>
+<ul>
+  <li>ogl the only one &nbsp;which now works. 3D, graohics ard dependent</li>
+  <li>window, I'M LOOKING FOR VOULENTEER &nbsp;which will create this...</li>
+</ul>
+<span style="font-weight: bold;">SAVE-</span> save current settings (scrabble-settings.xml)<br>
+<span style="font-weight: bold;">load - </span>&nbsp;load saved settings<br>
+<br>
+<span style="font-weight: bold;">Name for NOT...</span> This name will be used instead of palyer list if you are the client of internet game.<br>
+<span style="font-weight: bold;">IP adress of server</span> - ncmnt<br>
+<span style="font-weight: bold;">this computer is server</span> - your
+computer is server, you need to SR\TART the game, others willl join,
+your players list is used (you do not need to be in, but it is
+recomanded:D )<br>
+<span style="font-weight: bold;">Consoletime</span> - how fast the console output will disapear<br>
+<span style="font-weight: bold;">Console min time</span> - how fast the console output will disapear if&nbsp;output is too long<br>
+<span style="font-weight: bold;">randomize palyers</span> - players will not play as is written in players list<br>
+<span style="font-weight: bold;">enable inputconsole - </span>allow
+cheatconsole (TAB key) &nbsp;to be in game (you can used it for example
+to fAI finishes your turn, or find a word with regex...)<br>
+<span style="font-weight: bold;">cursor</span> - ncmnt<br>
+<span style="font-weight: bold;">if word is not in...</span> - extension for allow palyers checks<br>
+<span style="font-weight: bold;">jokers to be changed</span> - ncmnt (key J in game)<br>
+<span style="font-weight: bold;">Allow turn test</span> &nbsp;- you can check your turn before send it to other players for check or to computer.<br>
+<span style="font-weight: bold;">If turn is disagreed skip palyer </span>- SadoMAso option, only 50% of sense with turn tests.<br>
+<span style="font-weight: bold;">after chenging hthe joker lost turn</span> - again variant of scrabble<br>
+<span style="font-weight: bold;">only one palyer passes enough - </span> again variant of scrabble, one player can finish the game, dangerous...<br>
+<span style="font-weight: bold;">passes to finish</span> - &nbsp;ncmnt...<br>
+<span style="font-weight: bold;">sounds</span> - nesesary when youare making another work and ai or network palyer is playing. This will call you ("YOUR TURN" ;)<br>
+<span style="font-weight: bold;">DISTRIBUTED AI-</span> each computer in game will thing its part - very fast and good when playing against MASTER<br>
+<br>
+<br>
+<br>
+</body>
+</html>

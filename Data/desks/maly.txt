@@ -1,0 +1,10 @@
+9x9
+t   t   t
+ x     x 
+  y   y  
+   d d   
+t   s   t
+   d d   
+  y   y  
+ x     x 
+t   t   t
