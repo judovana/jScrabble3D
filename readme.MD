@@ -16,3 +16,7 @@ mv cz-Sk2.txt-nw cz-Sk2.txt
 
 Other may need similar
 
+#Depndencies
+```
+(whole) lwjgl and jl1
+```
