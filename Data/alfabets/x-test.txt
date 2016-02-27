@@ -1,5 +1,5 @@
 cz1*017.png
 A 1 5 cz1*010.png
-¡ 2 5 cz1*018.png
-é 4 5 cz1*031.png
+√Å 2 5 cz1*018.png
+≈Ω 4 5 cz1*031.png
 % 0 10 cz1*040.png
